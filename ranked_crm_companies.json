@@ -1,0 +1,6681 @@
+[
+  {
+    "company": "Thala Labs",
+    "contacts_count": 30,
+    "exec_count": 8,
+    "execs": [
+      {
+        "name": "Adam C",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/adamcader",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "San L",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/san-l-1b68a9152",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Steven L",
+        "title": "Operations Lead",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Yunseok S",
+        "title": "Lead Advisor",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Adam C",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/adamcader",
+        "sheet": "Sygnal.xyz"
+      },
+      {
+        "name": "San L",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/san-l-1b68a9152",
+        "sheet": "Sygnal.xyz"
+      },
+      {
+        "name": "Steven L",
+        "title": "Operations Lead",
+        "linkedin": "",
+        "sheet": "Sygnal.xyz"
+      },
+      {
+        "name": "Yunseok S",
+        "title": "Lead Advisor",
+        "linkedin": "",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "GFR Fund",
+    "contacts_count": 6,
+    "exec_count": 6,
+    "execs": [
+      {
+        "name": "Teppei Tsutsui",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/teppeitsutsui",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Yasushi Komori",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/yasushi-komori-35728687",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Masaki Fujimoto",
+        "title": "General Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Teppei Tsutsui",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/teppeitsutsui",
+        "sheet": "Sygnal.xyz"
+      },
+      {
+        "name": "Yasushi Komori",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/yasushi-komori-35728687",
+        "sheet": "Sygnal.xyz"
+      },
+      {
+        "name": "Masaki Fujimoto",
+        "title": "General Partner",
+        "linkedin": "",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "Stacked"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Gains Associates",
+    "contacts_count": 6,
+    "exec_count": 6,
+    "execs": [
+      {
+        "name": "Alexandre Raffin",
+        "title": "CEO & Co-Founder",
+        "linkedin": "linkedin.com/in/alexandre-raffin",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Lotfi Zouad",
+        "title": "CTO & Co-Founder",
+        "linkedin": "linkedin.com/in/lotfi-zouad",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Alexandre Patry",
+        "title": "COO & Co-Founder",
+        "linkedin": "linkedin.com/in/alexandrepatry",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Alexandre Raffin",
+        "title": "CEO & Co-Founder",
+        "linkedin": "linkedin.com/in/alexandre-raffin",
+        "sheet": "Sygnal.xyz"
+      },
+      {
+        "name": "Lotfi Zouad",
+        "title": "CTO & Co-Founder",
+        "linkedin": "linkedin.com/in/lotfi-zouad",
+        "sheet": "Sygnal.xyz"
+      },
+      {
+        "name": "Alexandre Patry",
+        "title": "COO & Co-Founder",
+        "linkedin": "linkedin.com/in/alexandrepatry",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "May",
+    "contacts_count": 6,
+    "exec_count": 5,
+    "execs": [
+      {
+        "name": "Joe Zhou",
+        "title": "COO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Guangyao Gong",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/guangyao-gong-37579956/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Kristoffer Kullengren",
+        "title": "Creative Director",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Felix Luo",
+        "title": "Operation Director",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Kristina Gao",
+        "title": "Product Director",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Pantera Capital",
+    "contacts_count": 6,
+    "exec_count": 5,
+    "execs": [
+      {
+        "name": "Dan Morehead",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/dmorehead",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Paul Veradittakit",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/veradittakit",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Lauren Stephanian",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/lstephanian",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Dan Morehead",
+        "title": "Founder & CEO",
+        "linkedin": "linkedin.com/in/dmorehead",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Dan Morehead",
+        "title": "Founder & CEO",
+        "linkedin": "linkedin.com/in/dmorehead",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "Stacked",
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Yield Guild Games",
+    "contacts_count": 5,
+    "exec_count": 5,
+    "execs": [
+      {
+        "name": "Gabriel Dizon",
+        "title": "Co-founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Gabby Dizon",
+        "title": "Co-founder",
+        "linkedin": "linkedin.com/in/gabbydizon",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Beryl Li",
+        "title": "Co-founder",
+        "linkedin": "linkedin.com/in/beryl-chavez-li-832baa4b",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Gabby Dizon",
+        "title": "Co-founder",
+        "linkedin": "linkedin.com/in/gabbydizon",
+        "sheet": "crypto VC"
+      },
+      {
+        "name": "Beryl Li",
+        "title": "Co-founder",
+        "linkedin": "linkedin.com/in/beryl-chavez-li-832baa4b",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "IOSG Ventures",
+    "contacts_count": 5,
+    "exec_count": 5,
+    "execs": [
+      {
+        "name": "Jocy Lin",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/jocy003",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Xinshu Dong",
+        "title": "Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Queenie Wu",
+        "title": "Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jocy Lin",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/jocy003",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jocy Lin",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/jocy003",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium",
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Matrixworld",
+    "contacts_count": 6,
+    "exec_count": 4,
+    "execs": [
+      {
+        "name": "Xiao Wu",
+        "title": "CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Xiao Wu",
+        "title": "CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Tim",
+        "title": "CTO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Nick Young",
+        "title": "COO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Delphi Digital",
+    "contacts_count": 6,
+    "exec_count": 4,
+    "execs": [
+      {
+        "name": "Anil Lulla",
+        "title": "Co-founder & COO",
+        "linkedin": "linkedin.com/in/anillulla",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Tom Shaughnessy",
+        "title": "Co-founder",
+        "linkedin": "linkedin.com/in/tom-shaughnessy-jr-2572a220",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Anil Lulla",
+        "title": "Co-founder & COO",
+        "linkedin": "linkedin.com/in/anillulla",
+        "sheet": "crypto VC"
+      },
+      {
+        "name": "Tom Shaughnessy",
+        "title": "Co-founder",
+        "linkedin": "linkedin.com/in/tom-shaughnessy-jr-2572a220",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Crossbeam Venture Partners",
+    "contacts_count": 4,
+    "exec_count": 4,
+    "execs": [
+      {
+        "name": "Ali Hamed",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/alihamed",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Christopher Ryan",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/christopher-ryan-65450214",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Savneet Singh",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/savneetsingh",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Raj Date",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/raj-date-56598a2",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "FJ Labs",
+    "contacts_count": 4,
+    "exec_count": 4,
+    "execs": [
+      {
+        "name": "Fabrice Grinda",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/fabricegrinda",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jose Marin",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/jose-marin-093121",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Arne Halleraker",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/halleraker",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jeff Weinstein",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/jeffreysweinstein",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Moonwhale Ventures",
+    "contacts_count": 4,
+    "exec_count": 4,
+    "execs": [
+      {
+        "name": "Stefan Bergstr\u00f6m",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/stefan-bergstr\u00f6m-a255089",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Danny Christ",
+        "title": "Co-Founder & CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Stefan Bergstr\u00f6m",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/stefan-bergstr\u00f6m-a255089",
+        "sheet": "crypto VC"
+      },
+      {
+        "name": "Danny Christ",
+        "title": "Co-Founder & CEO",
+        "linkedin": "",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Global Founders Group",
+    "contacts_count": 4,
+    "exec_count": 4,
+    "execs": [
+      {
+        "name": "Sarra Zayani",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/sarrazayani",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Don Stalter",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/donaldstalter",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Soheil Mirpour",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/mirpour",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Kateryna Naryzhnova",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/katerynanaryzhnova",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "RNR Capital",
+    "contacts_count": 4,
+    "exec_count": 4,
+    "execs": [
+      {
+        "name": "Min Park",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/minpark86",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Shawn Tsao",
+        "title": "General Partner and Co-Founder",
+        "linkedin": "linkedin.com/in/shawn-tsao-9361142a",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Min Park",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/minpark86",
+        "sheet": "crypto VC"
+      },
+      {
+        "name": "Shawn Tsao",
+        "title": "General Partner and Co-Founder",
+        "linkedin": "linkedin.com/in/shawn-tsao-9361142a",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Eniac Venture",
+    "contacts_count": 4,
+    "exec_count": 4,
+    "execs": [
+      {
+        "name": "Hadley Harris",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/hadleyharris",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Vic Singh",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/vicsingh",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Nihal Mehta",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/nihalmehta",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Tim Young",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/timothyyoung2",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Rising Capital",
+    "contacts_count": 4,
+    "exec_count": 4,
+    "execs": [
+      {
+        "name": "Sankalp Shangari",
+        "title": "Managing Director",
+        "linkedin": "linkedin.com/in/sankalpshangari",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Pavel Bains",
+        "title": "Co-Founder Partner",
+        "linkedin": "linkedin.com/in/pavelbains",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Sankalp Shangari",
+        "title": "Managing Director",
+        "linkedin": "linkedin.com/in/sankalpshangari",
+        "sheet": "Sygnal.xyz"
+      },
+      {
+        "name": "Pavel Bains",
+        "title": "Co-Founder Partner",
+        "linkedin": "linkedin.com/in/pavelbains",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Nxgen",
+    "contacts_count": 4,
+    "exec_count": 4,
+    "execs": [
+      {
+        "name": "Simon M",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/simonschwerin",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Joeri V",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/joerivangeelen",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Simon M",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/simonschwerin",
+        "sheet": "Sygnal.xyz"
+      },
+      {
+        "name": "Joeri V",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/joerivangeelen",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Clique",
+    "contacts_count": 5,
+    "exec_count": 3,
+    "execs": [
+      {
+        "name": "Kevin Yu",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/kevin-yu-kaicheng-4b3650191//",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jaden Yan",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/jaden-yan-898b65188",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jaden Yan",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/jaden-yan-898b65188",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Mirana Ventures",
+    "contacts_count": 5,
+    "exec_count": 3,
+    "execs": [
+      {
+        "name": "David Toh",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/davidtyh",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "David Toh",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/davidtyh",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "David Toh",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/davidtyh",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Improbable"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Yesports",
+    "contacts_count": 4,
+    "exec_count": 3,
+    "execs": [
+      {
+        "name": "Tim Han",
+        "title": "Head Of Communications",
+        "linkedin": "https://www.linkedin.com/in/timothyhan-sg/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Ben Le Roux",
+        "title": "Head of Marketing",
+        "linkedin": "https://www.linkedin.com/in/benleroux/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Sebastian Quinn",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/sebastian-quinn-645457b3/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Banana Factory Games",
+    "contacts_count": 4,
+    "exec_count": 3,
+    "execs": [
+      {
+        "name": "Dwayne",
+        "title": "Art Director",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Andrew Cheung",
+        "title": "Product & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/andrew-c-339293127/overlay/contact-info/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Norbert Kalman",
+        "title": "CEO & Co-founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Vybe Network",
+    "contacts_count": 4,
+    "exec_count": 3,
+    "execs": [
+      {
+        "name": "Arun Dass",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/arun-dass-b3399698/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Morgan Yu",
+        "title": "Tech Lead",
+        "linkedin": "https://www.linkedin.com/in/morgan-yu-10b244161/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Eoin Brady",
+        "title": "COO",
+        "linkedin": "https://www.linkedin.com/in/eoinjjbrady/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Arca",
+    "contacts_count": 3,
+    "exec_count": 3,
+    "execs": [
+      {
+        "name": "Rayne Steinberg",
+        "title": "Chief Executive Officer, & Co-Founder",
+        "linkedin": "linkedin.com/in/raynesteinberg",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Philip Liu",
+        "title": "Chief Legal Officer, Co-Founder",
+        "linkedin": "linkedin.com/in/philipliu",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jeff Dorman",
+        "title": "Chief Investment Officer, Co-Founder",
+        "linkedin": "linkedin.com/in/jeff-dorman-cfa-61063129",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Circle Ventures",
+    "contacts_count": 3,
+    "exec_count": 3,
+    "execs": [
+      {
+        "name": "Jeremy Allaire",
+        "title": "Co-founder, Chairman & CEO",
+        "linkedin": "linkedin.com/in/jeremyallaire/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Ryan Feit",
+        "title": "Co-founder & CEO",
+        "linkedin": "linkedin.com/in/ryanfeit",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Elisabeth Carpenter",
+        "title": "COO",
+        "linkedin": "linkedin.com/in/thiscarpenter",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "FBG Capital",
+    "contacts_count": 3,
+    "exec_count": 3,
+    "execs": [
+      {
+        "name": "Vincent Shuoji Zhou",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/shuojizhou",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Daniel Kim",
+        "title": "Investment Director",
+        "linkedin": "linkedin.com/in/danielandrewkim",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Daniel Kim",
+        "title": "Investment Director",
+        "linkedin": "linkedin.com/in/danielandrewkim",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Sanctor Capital",
+    "contacts_count": 3,
+    "exec_count": 3,
+    "execs": [
+      {
+        "name": "Han Kao",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/hankao",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Ilya Abugov",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/ilya-abugov",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jay Putera",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/jayputera",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "1kx",
+    "contacts_count": 3,
+    "exec_count": 3,
+    "execs": [
+      {
+        "name": "Christopher Heymann",
+        "title": "Founding partner",
+        "linkedin": "linkedin.com/in/christopher-heymann",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Dmitriy Berenzon",
+        "title": "Research Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Lasse Clausen",
+        "title": "Founding partner",
+        "linkedin": "linkedin.com/in/lasseclausen",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Hyperithm",
+    "contacts_count": 3,
+    "exec_count": 3,
+    "execs": [
+      {
+        "name": "Wonjun Lloyd Lee",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/wonjunlloydlee",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Sangrok OH",
+        "title": "Founder & CEO",
+        "linkedin": "linkedin.com/in/sangrok-oh-7ab11242",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Woojin Kim",
+        "title": "Founder & CTO",
+        "linkedin": "linkedin.com/in/woogenius",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Infinite Arcade"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Serafund",
+    "contacts_count": 3,
+    "exec_count": 3,
+    "execs": [
+      {
+        "name": "Andrew Zhu",
+        "title": "Managing Partner",
+        "linkedin": "linkedin.com/in/andrewzhu31",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Anthony Wang",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/anthony-wang323",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Charlie Chen",
+        "title": "Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints (Soft commitment)"
+    ],
+    "notes": []
+  },
+  {
+    "company": "LD Capital",
+    "contacts_count": 6,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Jack Yi",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/jack-yi-045a51b5",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jack Yi",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/jack-yi-045a51b5",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Elysian",
+    "contacts_count": 4,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Joe\uff08Josemario\uff09 Zavala Page",
+        "title": "COO",
+        "linkedin": "https://www.linkedin.com/in/josemariozavalapage/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Yuval Soiref",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/yuval-soiref-44127862/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "EthSign",
+    "contacts_count": 4,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Xin Yan",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/xin-yan-658545172/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jack Xu",
+        "title": "CTO",
+        "linkedin": "https://www.linkedin.com/in/boyuan-xu/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Sfermion",
+    "contacts_count": 4,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Andrew Steinwold",
+        "title": "Managing Partner",
+        "linkedin": "linkedin.com/in/andrew-steinwold",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Dan Patterson",
+        "title": "General partner",
+        "linkedin": "linkedin.com/in/dan-patterson-9482a571",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Arcanum Capital",
+    "contacts_count": 4,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Luchang Zheng",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/luciazheng",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Luchang Zheng",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/luciazheng",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Octava",
+    "contacts_count": 4,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "RAMAN SIDHU",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/raman-sidhu-73447334",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "RAMAN SIDHU",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/raman-sidhu-73447334",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "ParaFi Capital",
+    "contacts_count": 4,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Ben Forman",
+        "title": "Managing Partner",
+        "linkedin": "linkedin.com/in/ben-forman-b78b2416",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Ben Forman",
+        "title": "Managing Partner",
+        "linkedin": "linkedin.com/in/ben-forman-b78b2416",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Sparkle Ventures",
+    "contacts_count": 3,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Julien Pagaud",
+        "title": "General Partner",
+        "linkedin": "https://www.linkedin.com/in/julien-pageaud-5ba56b10/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Julien Pagaud",
+        "title": "General Partner",
+        "linkedin": "https://www.linkedin.com/in/julien-pageaud-5ba56b10/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Metapass",
+    "contacts_count": 3,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Richard Xiong",
+        "title": "CTO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Peter Brown",
+        "title": "CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Hypernet labs",
+    "contacts_count": 3,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Ivan Ravlich",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/iravlich/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jon Venverloh",
+        "title": "COO",
+        "linkedin": "https://www.linkedin.com/in/jon-venverloh-101010/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Z Venture Capital",
+    "contacts_count": 3,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Shinichiro Hori",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/shinichiro-hori",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Shinichiro Hori",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/shinichiro-hori",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "Stacked"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Play Ventures",
+    "contacts_count": 3,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Henric Suuronen",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/henricsuuronen",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Harri Manninen",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/harrimanninen",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "NGC Ventures",
+    "contacts_count": 3,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Roger Lim",
+        "title": "Founding partner",
+        "linkedin": "linkedin.com/in/limroger",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Tony Gu",
+        "title": "Founding partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "UpHonest Capital",
+    "contacts_count": 3,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Wei Guo",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/wei-guo-b9b76038",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Wei Guo",
+        "title": "Founding Partner",
+        "linkedin": "https://www.linkedin.com/in/wei-guo-b9b76038",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Maxos",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Andy Singleton",
+        "title": "Founder/CEO @ Maxos/Ally",
+        "linkedin": "https://www.linkedin.com/in/andy-singleton-831144/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Andy Singleton",
+        "title": "Founder/CEO @ Maxos/Ally",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Continuum",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Jamey Gannon",
+        "title": "Cretive Director",
+        "linkedin": "https://www.linkedin.com/in/jameygannon/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jason Curry",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/jasonacurry/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "modd.io",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Linda Yuan",
+        "title": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/yuanlinda/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jaeyun Noh",
+        "title": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/jaeyunnoh/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Soundmint",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Brian Nguyen",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/brian-nguyen-resume/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Brian Nguyen",
+        "title": "CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Metaprints",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Harry",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/harryprofile/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Harry Liu",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/harryprofile",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Coins Group",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Douglas Ching",
+        "title": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/dougching/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Virginia Lam",
+        "title": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/lamvirginia/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Animoca Brands",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Gen Kanai",
+        "title": "Brand Director",
+        "linkedin": "https://www.linkedin.com/in/genkanai/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Yat Siu",
+        "title": "founder and CEO",
+        "linkedin": "linkedin.com/in/yatsiu",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO",
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "AO",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Christy Choi",
+        "title": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/christyhwchoi/",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Joony Koo",
+        "title": "CEO & Founder",
+        "linkedin": "https://www.linkedin.com/in/joonykoo/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "MPower Partners",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Kathy Matsui",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/kathymatsui",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Kathy Matsui",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/kathymatsui",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Intersection Growth Partners",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Elizabeth Anderson",
+        "title": "co-founder & partner",
+        "linkedin": "linkedin.com/in/elizabethdanderson",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Scott Fletcher",
+        "title": "Co-founder & partner",
+        "linkedin": "linkedin.com/in/scottfletcher2",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Gemini",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Cameron Winklevoss",
+        "title": "Co-founder & CEO",
+        "linkedin": "linkedin.com/in/winklevoss",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Tyler Winklevoss",
+        "title": "Co-founder & CEO",
+        "linkedin": "linkedin.com/in/tylerwinklevoss",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Everyrealm",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Janine Yorio",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/janineyorio",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Julia Schwartz",
+        "title": "Co-founder",
+        "linkedin": "linkedin.com/in/julia-schwartz-88579354",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Arrington Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Michael Arrington",
+        "title": "Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Heather Harde",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/heatherharde",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "BlockFi Ventures",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Zac Prince",
+        "title": "Co-founder & CEO",
+        "linkedin": "linkedin.com/in/zacprince",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Flori Marquez",
+        "title": "Co-founder",
+        "linkedin": "linkedin.com/in/founderflori",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Wintermute",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Yoann Turpin",
+        "title": "Co-founder & head of BD",
+        "linkedin": "linkedin.com/in/yoannturpin",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Yoann Turpin",
+        "title": "Co-founder & head of BD",
+        "linkedin": "linkedin.com/in/yoannturpin",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "6th Man Ventures",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Mike Dudas",
+        "title": "Founder & General Partner",
+        "linkedin": "linkedin.com/in/mdudas",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Serge Kassardjian",
+        "title": "Co-Founder and General Partner",
+        "linkedin": "linkedin.com/in/sergekass",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Morningstar Ventures",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Danilo S. Carlucci",
+        "title": "Co-Founder & CEO",
+        "linkedin": "linkedin.com/in/daniloscarlucci",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Arut Nazaryan",
+        "title": "Co-Founder & CFO",
+        "linkedin": "linkedin.com/in/arut-nazaryan-95756467",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Newman Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Adrian L",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/adrian-lai",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Anthony Cheng",
+        "title": "Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Move Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "William Barnes",
+        "title": "Founding partner",
+        "linkedin": "linkedin.com/in/williampbarnes",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Amr Alshihabi",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/amr-alshihabi",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Infinite Arcade"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Jump Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Peter Carroll",
+        "title": "Operating Partner",
+        "linkedin": "linkedin.com/in/peter-j-carroll-a7a8aa5",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Sach Chitnis",
+        "title": "Co-founder & Partner",
+        "linkedin": "linkedin.com/in/sachchitnis",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Infinite Arcade"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Animal Ventures",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Tom Serres",
+        "title": "Founder & Managing partner",
+        "linkedin": "linkedin.com/in/tomserres",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Bettina Warburg",
+        "title": "Founder & Managing partner",
+        "linkedin": "linkedin.com/in/bettina-warburg-4a25a0a",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Infinite Arcade"
+    ],
+    "notes": []
+  },
+  {
+    "company": "ROK Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Brian Kang",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/briankang1",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Brian Kang",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/briankang1",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "YBB Foundation",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Hugh Guan",
+        "title": "Co-Founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Hugh Guan",
+        "title": "Co-Founder",
+        "linkedin": "",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Stake Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Julien Bouteloup",
+        "title": "Founder & CEO",
+        "linkedin": "linkedin.com/in/jbouteloup",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Julien Bouteloup",
+        "title": "Founder & CEO",
+        "linkedin": "linkedin.com/in/jbouteloup",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Bitscale Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Kazhiloti Zurab",
+        "title": "Founder & CEO",
+        "linkedin": "linkedin.com/in/kazhiloti-zurab-83929216",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Kazhiloti Zurab",
+        "title": "Founder & CEO",
+        "linkedin": "linkedin.com/in/kazhiloti-zurab-83929216",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Quantstamp",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Richard Ma",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/rtmtd",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Richard Ma",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/rtmtd",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Synthetix",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Kain Warwick",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/kainwarwick",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Kain Warwick",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/kainwarwick",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Aave",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Stani Kulechov",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/stani-kulechov-361284132",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Stani Kulechov",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/stani-kulechov-361284132",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "1Inch DEX",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Anton Bukov",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/k06aa",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Anton Bukov",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/k06aa",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Barnbridge",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Tyler Ward",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/tyler-scott-ward-42638627",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Tyler Ward",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/tyler-scott-ward-42638627",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "ParaFi",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Santiago Santos",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/santiago-rs",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Santiago Santos",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/santiago-rs",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Bitcoin.com",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Danish Chaudhry",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/djchaudhry",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Danish Chaudhry",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/djchaudhry",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Spartan Capital/Brockcrunch",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Jason Choi",
+        "title": "General Partner/Founder",
+        "linkedin": "linkedin.com/in/jasonhtchoi",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jason Choi",
+        "title": "General Partner/Founder",
+        "linkedin": "linkedin.com/in/jasonhtchoi",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium",
+      "NFT Genius"
+    ],
+    "notes": []
+  },
+  {
+    "company": "SandBox",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Sebastien Borget",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/borgetsebastien",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Sebastien Borget",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/borgetsebastien",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Band Protocol",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Kevin Lu",
+        "title": "Head of Business Development & Growth",
+        "linkedin": "linkedin.com/in/kevin-lu-sydney",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Kevin Lu",
+        "title": "Head of Business Development & Growth",
+        "linkedin": "linkedin.com/in/kevin-lu-sydney",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Menlo Ventures",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "H. DuBose Montgomery",
+        "title": "Founder & Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Mark Siegel",
+        "title": "Managing Director",
+        "linkedin": "linkedin.com/in/marksiegel2",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Rocketplace"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Better Tomorrow Ventures",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Jake Gibson",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/jacobgibson",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Sheel Mohnot",
+        "title": "Co-Founder / GP",
+        "linkedin": "linkedin.com/in/smohnot",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Rocketplace"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Mulana Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Gillian Wu",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/gillian",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Gilbert Ng",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/gilbert-ng-826091a1",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Signum Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "John Ng Pangilinan",
+        "title": "Managing Partner",
+        "linkedin": "linkedin.com/in/johnngp",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "YY Lai",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/yokeyong",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Cambium Capital Partners",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Landon Downs",
+        "title": "Managing Partner",
+        "linkedin": "linkedin.com/in/landondowns",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "David Moehring",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/david-moehring-79bb33127",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "IDG China",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Mei Gao",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/mei-gao-40464a112",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Xiaojun Li",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/lixiaojun",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints (Soft commitment)"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Dapper Labs",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Roham Gharegozlou",
+        "title": "Co-Founder/CEO",
+        "linkedin": "linkedin.com/in/roham",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Roham Gharegozlou",
+        "title": "Co-Founder/CEO",
+        "linkedin": "linkedin.com/in/roham",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "Metaprints (Soft commitment)",
+      "NFT Genius"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Stratified Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Katrina Wang",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/katrinawhq",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Katrina Wang",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/katrinawhq",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Binance Australia",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Leigh Travers",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/leigh-travers-b9a68235",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Leigh Travers",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/leigh-travers-b9a68235",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "ArkStream Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Jean Zheng",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/jiying",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Jean Zheng",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/jiying",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "DataMasters.it",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Luigi Congedo",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/luigicongedo",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Luigi Congedo",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/luigicongedo",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Web3Auth",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Zen (Zhen Yu) Yong",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/yzheny",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Zen (Zhen Yu) Yong",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/yzheny",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Onchain Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Ran Neuner",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/ran-neuner-8826a756",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Ran Neuner",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/ran-neuner-8826a756",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Commonwealth Asset Management LP (CWAM)",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Adam Fisher",
+        "title": "Founder and Chief Investment Officer",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Adam Fisher",
+        "title": "Founder and Chief Investment Officer",
+        "linkedin": "",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "NFT Genius"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Fundamental Labs",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Howard Yuan",
+        "title": "Co-Founder & Managing Partner",
+        "linkedin": "linkedin.com/in/howard-yuan-88250018",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Howard Yuan",
+        "title": "Co-Founder & Managing Partner",
+        "linkedin": "linkedin.com/in/howard-yuan-88250018",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "KNN3",
+      "NFT Genius"
+    ],
+    "notes": []
+  },
+  {
+    "company": "OneFootball",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Lucas von Cranach",
+        "title": "CEO & Founder",
+        "linkedin": "linkedin.com/in/lucas-von-cranach-97793a40",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Lucas von Cranach",
+        "title": "CEO & Founder",
+        "linkedin": "linkedin.com/in/lucas-von-cranach-97793a40",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "NFT Genius"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Unibanco",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Milton Maluhy Filho",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/miltonmaluhyfilho",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Milton Maluhy Filho",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/miltonmaluhyfilho",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [
+      "NFT Genius"
+    ],
+    "notes": []
+  },
+  {
+    "company": "8VC",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Joe Lonsdale",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/jtlonsdale",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Alex Moore",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/alex-moore-4639b91",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Anduril Industries",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Trae Stephens",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/trae-stephens-485a811",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Matt Grimm",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/mttgrmm",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Starlite Investment Group",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Alfred Chu",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/alfredtchu",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Alfred Chu",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/alfredtchu",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "new web 3 crypto fund",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Yen Shiau Shiau",
+        "title": "General Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Yen Shiau Shiau",
+        "title": "General Partner",
+        "linkedin": "",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Serena Ventures",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Serena Williams",
+        "title": "Managing Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Serena Williams",
+        "title": "Managing Partner",
+        "linkedin": "",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "The Bright App",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "James Zhang",
+        "title": "CTO",
+        "linkedin": "linkedin.com/in/jyzhang",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "James Zhang",
+        "title": "CTO",
+        "linkedin": "linkedin.com/in/jyzhang",
+        "sheet": "crypto VC"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Stacked",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Alex Lin",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/alin4",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Alex Lin",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/alin4",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Scale AI",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Alexandr Wang",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/alexandrwang",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Alexandr Wang",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/alexandrwang",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "Stacked"
+    ],
+    "notes": []
+  },
+  {
+    "company": "GOAT",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Eddy Lu",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/eddylu",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Eddy Lu",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/eddylu",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "Stacked"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Nothing",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Carl Pei",
+        "title": "Co-founder",
+        "linkedin": "linkedin.com/in/peicarl",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Carl Pei",
+        "title": "Co-founder",
+        "linkedin": "linkedin.com/in/peicarl",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "Stacked"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Token Bay Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Lucy Gazmararian",
+        "title": "Founder & Managing Partner",
+        "linkedin": "linkedin.com/in/lucygazmararian",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Lucy Gazmararian",
+        "title": "Founder & Managing Partner",
+        "linkedin": "linkedin.com/in/lucygazmararian",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Fundamentals Lab",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Howard (Hao) Yuan",
+        "title": "Managing Partner, Co-founder",
+        "linkedin": "linkedin.com/in/howard-yuan-88250018",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Howard (Hao) Yuan",
+        "title": "Managing Partner, Co-founder",
+        "linkedin": "linkedin.com/in/howard-yuan-88250018",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "MetaWeb Venture",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Amos Zhang",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/amos-zhang",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Daniela Osorio",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/daniosorio",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Conviction",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Sarah Guo",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/sarahxguo",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Sarah Guo",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/sarahxguo",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Bybit",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Ben Zhou",
+        "title": "founder and CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Ben Zhou",
+        "title": "founder and CEO",
+        "linkedin": "linkedin.com/in/ben-zhou-12540822b/",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Ex Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Joshua See",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/joshua-see-3487211aa",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Joshua See",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/joshua-see-3487211aa",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Anti Fund",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Geoffrey Woo",
+        "title": "Co-founder & Partner",
+        "linkedin": "linkedin.com/in/geoffreywoo",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Geoffrey Woo",
+        "title": "Co-founder & Partner",
+        "linkedin": "linkedin.com/in/geoffreywoo",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Algorand",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Silvio Micali",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/silvio-micali-26bb37152",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Silvio Micali",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/silvio-micali-26bb37152",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Nexo Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Kosta Kantchev",
+        "title": "Co-founder",
+        "linkedin": "linkedin.com/in/kostakantchev",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Kosta Kantchev",
+        "title": "Co-founder",
+        "linkedin": "linkedin.com/in/kostakantchev",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "GSR Capital",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Shenjun Wu",
+        "title": "Co-founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Shenjun Wu",
+        "title": "Co-founder",
+        "linkedin": "",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Coinhako",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Yusho Liu",
+        "title": "Co-founder & CEO",
+        "linkedin": "linkedin.com/in/yusholiu",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Yusho Liu",
+        "title": "Co-founder & CEO",
+        "linkedin": "linkedin.com/in/yusholiu",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "DWF Labs",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Andrei Grachev",
+        "title": "Managing Partner",
+        "linkedin": "linkedin.com/in/andrewg77",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Andrei Grachev",
+        "title": "Managing Partner",
+        "linkedin": "linkedin.com/in/andrewg77",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "GREAT SOUTH GATE",
+    "contacts_count": 2,
+    "exec_count": 2,
+    "execs": [
+      {
+        "name": "Daniel Whang",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/daniel-whang-2b2889142",
+        "sheet": "TV Master"
+      },
+      {
+        "name": "Daniel Whang",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/daniel-whang-2b2889142",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO advisor"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Binance",
+    "contacts_count": 9,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Changpeng Zhao",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/cpzhao",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Republic Crypto",
+    "contacts_count": 5,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Alex Ye",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/laoganpapi",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Metaverse Magna",
+    "contacts_count": 4,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Yele Bademosi",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/yelebademosi/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Sky9 Capital",
+    "contacts_count": 4,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Ron Cao",
+        "title": "Founder and Managing Partner",
+        "linkedin": "linkedin.com/in/ron-cao-13812",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Playground",
+    "contacts_count": 3,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Linda Yang",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/lindayang/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "blinkmoon.com",
+    "contacts_count": 3,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Haven Thorn",
+        "title": "Director of Communications",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Nyan Heroes",
+    "contacts_count": 3,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Max Fu",
+        "title": "CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Polygon",
+    "contacts_count": 3,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Kevin Ang",
+        "title": "Developer Relations APAC Lead",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Galxe",
+    "contacts_count": 3,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Charles Wayn",
+        "title": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/charleswayn",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Superfans",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "C\u00e9dric Sadai",
+        "title": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/sadai/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Shrapnel",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Calvin Zhou",
+        "title": "Head of Business Development",
+        "linkedin": "https://www.linkedin.com/in/calvinzhou86/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Amethyst",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Elliott Foote",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/elliott-foote-b3934131/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Ignite Tournaments",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Tony Chen",
+        "title": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/foundertony/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Rct",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Chris Zhu",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/chrizhuu/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Aitomatic",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Christopher Nguyen",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/ctnguyen/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "AAI"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Kosmos Ventures",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Melanie Walker",
+        "title": "Director",
+        "linkedin": "https://www.linkedin.com/in/mel-walker-7568b672/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "YGG SEA",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Irene Umar",
+        "title": "Co-Founder & Country Manager",
+        "linkedin": "https://www.linkedin.com/in/irene-umar-844a8812/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "RSS3",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Jiaqi Liu",
+        "title": "COO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  },
+  {
+    "company": "BH Digital",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Adam Gibbons",
+        "title": "COO",
+        "linkedin": "https://www.linkedin.com/in/adam-gibbons-5399887/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Arcane Group",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Neil Su",
+        "title": "Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaone"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Playground Ventures",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Christopher Irwin",
+        "title": "CEO & director",
+        "linkedin": "linkedin.com/in/chris-irwin-89308022",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Harmony",
+    "contacts_count": 2,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Jay Platt",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/jay-platt-827884187",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints (Soft commitment)"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Sygnal.xyz",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Julija Bainiaksina",
+        "title": "Founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Rimac Automobili",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Mate Rimac",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/mate-rimac-76886759/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "dreadnought",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "MATT BALLESTEROS",
+        "title": "CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Argo",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Enzo Coglitore",
+        "title": "Co-Founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Hash Global",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "James (Kang) Shen",
+        "title": "Founder",
+        "linkedin": "https://www.linkedin.com/in/kang-shen-007744239/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Hype X",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Stark Zhang",
+        "title": "Founder/CEO of HypeX",
+        "linkedin": "https://www.linkedin.com/in/stark-zhang/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Ultrade",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Dan Goldman",
+        "title": "Founder/CEO of Ultrade",
+        "linkedin": "https://www.linkedin.com/in/goldmandan/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Ally Protocol",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Andy Singleton",
+        "title": "CEO/CTO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Kithward",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Amber Ju",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/amberju/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Metaverse AI",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Henry Yan",
+        "title": "Founder",
+        "linkedin": "https://www.linkedin.com/in/henryonline/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Sovereign Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Kevin Sutantyo",
+        "title": "Partner",
+        "linkedin": "https://www.linkedin.com/in/ksutantyo/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "center app",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Omar Bohsali",
+        "title": "CEO Center Pixel",
+        "linkedin": "https://www.linkedin.com/in/omarbohsali/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "People Reign",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Dan Turchin",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/dturchin/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "FS Insight",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Tom Lee",
+        "title": "Head Of Research",
+        "linkedin": "https://www.linkedin.com/in/thomas-tom-lee-98756b6/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "XVA Blockchain GmbH",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Nina Kaplan",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/nina-a-kaplan/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Codex",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Mark Meuller-Eberstein",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/markmuellereberstein/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Opensea"
+    ],
+    "notes": []
+  },
+  {
+    "company": "CVP Asset Management Limited",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Marco Tam",
+        "title": "Director",
+        "linkedin": "https://www.linkedin.com/in/marco-tam-73a5226b/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "HCP II"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Playible",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Michael Vehtic",
+        "title": "COO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "WazirX",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Nischal Shetty",
+        "title": "Founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "C2 Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Cara Sun",
+        "title": "Founder & Managing Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Circle",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Jeremy Allaire",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/jeremyallaire/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Souq",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "JonPaul Vega",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/vegajp/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "MetaOne",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Hoon Heh",
+        "title": "CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Ludex Technologies",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Jorge Diego Parra Marin",
+        "title": "CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Metabase",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Juan Soemarno",
+        "title": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/juansoemarno/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "XLD Finance",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Ian Estrada",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/ianestrada/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Shopify",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "John Lee",
+        "title": "Head of Blockchain Ecosystem",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Zebec",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Sam Thapaliya",
+        "title": "Founder",
+        "linkedin": "https://www.linkedin.com/in/zebecsam/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Mystiko Network",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "HyeonSu Im",
+        "title": "Co-founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Coinbase Singapore",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Kayvon Pirestani",
+        "title": "Head of APAC Institutional Sales & COO",
+        "linkedin": "https://www.linkedin.com/in/kayvon-pirestani-242b5b/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Huobi",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Zehua Chen",
+        "title": "Head of Listing",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Wave Financial",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Benjamin Tsai",
+        "title": "President & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/benjamin-tsai-investor/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Lootex",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Justine Lu",
+        "title": "Founder",
+        "linkedin": "https://www.linkedin.com/in/jlu0930/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Off Topic, Inc.",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Tetsuro Miyatake",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/tetsuro-miyatake/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "KLKTN.com",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Fabiano Pereira Soriani",
+        "title": "CTO",
+        "linkedin": "https://www.linkedin.com/in/flockonus/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Opensea",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Gideon Welles",
+        "title": "Content Lead",
+        "linkedin": "https://www.linkedin.com/in/gidwell/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "WOMBO",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Ben-Zion Benkhin",
+        "title": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ben-zion-benkhin-759192128/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Sol Sniper",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Max Zhuang",
+        "title": "Founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Parity Technologies",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Helena Wang",
+        "title": "Head of Parity Asia",
+        "linkedin": "https://www.linkedin.com/in/helenajuewang/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Klaytn Foundation",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "David Shin",
+        "title": "Global Head of Adoption",
+        "linkedin": "https://www.linkedin.com/in/shin-novation/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Solana",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Dominic Tsang",
+        "title": "Head of Business Development",
+        "linkedin": "https://www.linkedin.com/in/dominic-tsang-a3799266/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Metap",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Maxi Kuan",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/maxi-kuan-78a17215/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Semiotic AI, INC.",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Ahmet Ozcan",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/asozcan/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Trading Strategy",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Mikko Ohtamaa",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/ohtis/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Bru Finance",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Ashish Anand",
+        "title": "Founder",
+        "linkedin": "https://www.linkedin.com/in/ashishanand/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "dYdX Foiundation",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "David Gogel",
+        "title": "Head of Growth & Operations",
+        "linkedin": "https://www.linkedin.com/in/dgogel/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "XY Finance",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Wilson Huang",
+        "title": "Founder",
+        "linkedin": "https://www.linkedin.com/in/wilson-huang-mit/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Yomi Games",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Jason Lee",
+        "title": "Co-founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Monarch Gaming LLC",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Albert",
+        "title": "CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "PT. Meta Fantasy Indonesia",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Chen Chao",
+        "title": "CSO & Co-founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "ConsenSys",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Masa Kakiya",
+        "title": "Strategic Sales Director",
+        "linkedin": "https://www.linkedin.com/in/masa-kakiya-consensysjapan/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "SINEST Corporation",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Steve Heung Hwan Kim",
+        "title": "CBO & President Director",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Nakji Network",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Allie Zhang",
+        "title": "CEO & Co-founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Bware Labs",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Flavian-Costin Manea",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/maneaflavian/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Quivr",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Raymond Lee",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Crowdpad",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Joel Tom Alexander",
+        "title": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/joel-tom-alexander/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Checks Finance",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Yu Gao",
+        "title": "Founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Whydah",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Tri Pham",
+        "title": "CEO & Founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "SimWin Sports",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "David J. Ortiz",
+        "title": "CEO/CTO & Founder",
+        "linkedin": "https://www.linkedin.com/in/david-ortiz-9b79a41/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Bloxsmith",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Wayne Lee",
+        "title": "Founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Gacha Monster",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Duo Liu",
+        "title": "Head of Corporate Strategy",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Transcend",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Andrew Sheppard",
+        "title": "Managing Director",
+        "linkedin": "https://www.linkedin.com/in/andrewsheppard/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "BlockTower Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Steve Lee",
+        "title": "Head of Asia",
+        "linkedin": "https://www.linkedin.com/in/xxstevelee/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Bewnab Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Lai Yu Kan Adrian",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/adrian-lai/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": [
+      "Unsure"
+    ]
+  },
+  {
+    "company": "Sanctum PTE. LTD",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Pang Yen Zhang",
+        "title": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/ricopang/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Standard Crypto",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Adam Goldberg",
+        "title": "Co-Founder & Managing Director",
+        "linkedin": "linkedin.com/in/adamwgoldberg",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "New Chic Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "John Lee",
+        "title": "Investor/Founder",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Rari Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Jai Bhavnani",
+        "title": "Investor/Founder",
+        "linkedin": "https://www.linkedin.com/in/jaibhavnani/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Mobisec",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Alberto Zannol",
+        "title": "CEO&Founder",
+        "linkedin": "https://www.linkedin.com/in/zannolalberto/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Aitomatic"
+    ],
+    "notes": []
+  },
+  {
+    "company": "EVG",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Jerome Wong",
+        "title": "Co-Founder&Partner",
+        "linkedin": "https://www.linkedin.com/in/jeromewongtk/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Aitomatic"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Jsquare",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "James Wo",
+        "title": "Co-Founder & CEO",
+        "linkedin": "linkedin.com/in/james-wo-272904114",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Siamrajathanee Public Company Limited",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Nattaphol Vimolchalao",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/nattaphol",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Hustle Fund",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Eric Bahn",
+        "title": "Co-Founder & General Partner",
+        "linkedin": "linkedin.com/in/ericbahn",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "MSA Novo",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Tim C",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/timothychen",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "John Dempsey company"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Modular Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "James Ho",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/jamesjho",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Brevan Howard",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Aron Landy",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/aron-landy-b1b2364",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "DRW Venture Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Don Wilson",
+        "title": "founder and CEO",
+        "linkedin": "linkedin.com/in/donwilsonjr",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Neuberger Berman",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "George Herbert Walker",
+        "title": "Chairman & CEO",
+        "linkedin": "linkedin.com/in/george-walker-86680834",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Draper",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Tim Draper",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/timothydraper",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "OP Crypto",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "David Gan",
+        "title": "Founder, General Partner",
+        "linkedin": "linkedin.com/in/davidgancheng",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Red Beard Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Drew Austin",
+        "title": "Founder & Managing Partner",
+        "linkedin": "linkedin.com/in/drewaustin",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "The Sandbox",
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Ripple Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Matt Cohen",
+        "title": "Founder & Managing Partner",
+        "linkedin": "linkedin.com/in/matt-cohen1",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Supermojo"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Vina Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Richard Han",
+        "title": "VP",
+        "linkedin": "https://www.linkedin.com/in/hanrichard/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Makers Fund",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Michael Cheung",
+        "title": "General Partner",
+        "linkedin": "linkedin.com/in/michaelkcheung",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Folius Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Jason Kam",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/jason-kam-35080625",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "DWeb3",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Richard Yuen",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/richard-yuen",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Israeli Blockchain Association",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Tal Shahar",
+        "title": "COO",
+        "linkedin": "linkedin.com/in/tal-shahar-tsts",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "K300 Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Mai Nghia",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/mainghiak300ventures",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "GFS Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Gary Stanford",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/gary-stanford-600aa2165",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "HC Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Ryan Nguyen",
+        "title": "Founder and CEO",
+        "linkedin": "linkedin.com/in/ryan-nguyen-9656b5208",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "GBIC (Global Blockchain Innovative Capital)",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Sinhae Lee",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/sinhae",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "CRT Labs",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Vinson (Vinny) Lee Leow",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/vinsonleow",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "C\u00b2 Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Ciara Sun",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/ciara-sun-165361232",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Longhash Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Emma Cui",
+        "title": "Managing partner",
+        "linkedin": "linkedin.com/in/emmacui",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Shiva Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Felix Hick",
+        "title": "Founder & CEO",
+        "linkedin": "linkedin.com/in/felix-hick-a26594a",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Infinite Arcade"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Huobi Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Leon Li",
+        "title": "Founder & CEO",
+        "linkedin": "linkedin.com/in/leon-li-4578b2226",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Infinite Arcade"
+    ],
+    "notes": []
+  },
+  {
+    "company": "WAGMI Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Zituo (Henry) Chen",
+        "title": "Venture partner",
+        "linkedin": "linkedin.com/in/zituo-henry-chen-931001a3",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "6MV",
+      "DoNotPay",
+      "Griffin Gaming"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Launchpad Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Ryan Gilbert",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/ryanvc",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Rocketplace"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Accomplice VC",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Jeff Fagnan",
+        "title": "Founding partner",
+        "linkedin": "linkedin.com/in/jeff-fagnan-7b018",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Rocketplace"
+    ],
+    "notes": []
+  },
+  {
+    "company": "TTV Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Gardiner Garrard",
+        "title": "Co-Founder and Managing Partner",
+        "linkedin": "linkedin.com/in/gardinergarrard",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Rocketplace"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Soma Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Aneel Ranadive",
+        "title": "Managing Director",
+        "linkedin": "linkedin.com/in/aneelr",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Rocketplace"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Frontier Digital Ventures Ltd",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Shaun Di Gregorio",
+        "title": "CEO & Founder",
+        "linkedin": "linkedin.com/in/shaundigregorio",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Sequoia China",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Neil Shen",
+        "title": "Founding and managing partner",
+        "linkedin": "linkedin.com/in/\u5357\u9e4f-neil-shen-\u6c88-83422595",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Krafton/PUBG Corporation",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Kim Chang-han",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/changhan-kim-58964310a",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "SoftBank Vision Fund",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Rajeev Misra",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/rajeev-misra-vision-fund",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Mintable",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Zach Burks",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/zach-burks-93831814a",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Mapleblock Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Vijay Garg",
+        "title": "Managing Partner",
+        "linkedin": "linkedin.com/in/vijaygarg86",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Shima Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Yida Gao",
+        "title": "Managing General Partner",
+        "linkedin": "linkedin.com/in/yidagao",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "T.E.A.M DAO",
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Ankr",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Chandler Song",
+        "title": "Co-Founder & CEO",
+        "linkedin": "linkedin.com/in/yunfansong",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Efficient Frontier",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Ori Cohen",
+        "title": "Co-founder & Chief Research",
+        "linkedin": "linkedin.com/in/ori-cohen-657a19177",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Sagard",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Paul Desmarais III",
+        "title": "CEO",
+        "linkedin": "linkedin.com/in/pauldesmaraisiii",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Metaprints (Soft commitment)"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Parallel life NFT",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Sascha Darius Mojtahedi",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/sascha-darius-mojtahedi",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "FirstMark",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Matt Turck",
+        "title": "Managing Director",
+        "linkedin": "linkedin.com/in/turck",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Palumni VC",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Luba Lesiva",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/lubalesiva",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Initialized Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Garry Tan",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/garrytan",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Arena",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Pratap Ranade",
+        "title": "CEO and Co-Founder",
+        "linkedin": "linkedin.com/in/pratap-ranade-7272829",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "TheNode.fi",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Evan Kereiakes",
+        "title": "Business Lead",
+        "linkedin": "linkedin.com/in/evan-kereiakes",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Node Finance",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Eric Cuellar",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/airiq",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "OnePiece Labs",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Murray Newlands",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/murraynewlands",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "OnePiece Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Kezheng (KJ) Jia",
+        "title": "Partner",
+        "linkedin": "linkedin.com/in/kjjia",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Improbable",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Peter Lipka",
+        "title": "COO",
+        "linkedin": "linkedin.com/in/peter-lipka-763aba5b",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "MetaZone.io",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "William Gomez",
+        "title": "Co-Founder",
+        "linkedin": "linkedin.com/in/williamgomezjr",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Andreessen Horowitz",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Chris Dixon",
+        "title": "General Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Improbable"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Digital Currency Group",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Matt Beck",
+        "title": "Director of Investments",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Improbable"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Morgan Creek Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Sachin Jaitly",
+        "title": "General Partner",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Improbable"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Ethereal Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Min Teo",
+        "title": "Managing Director",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "Improbable"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Sharding Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Belinda Zhou",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/belindazhou1",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Fosun International",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Xinjun Liang",
+        "title": "former vice chair and CEO",
+        "linkedin": "linkedin.com/in/xinjun-liang-245030bb",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Mask Network",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Suji Yan",
+        "title": "Founder",
+        "linkedin": "linkedin.com/in/tedkoyan",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Incuba Alpha",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Ruby Wu",
+        "title": "Founding Partner",
+        "linkedin": "linkedin.com/in/ruby-wu-34938531",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Cogitent Venture",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Christopher Ochoa",
+        "title": "Managing Director",
+        "linkedin": "linkedin.com/in/chrisxochoa",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Chulalongkorn University Technology Center",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "PRAVEE KRUACHOTTIKUL",
+        "title": "Head",
+        "linkedin": "linkedin.com/in/pravee-kruachottikul",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Chulalongkorn University Technology Center (UTC)",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Pin Pin Tea-makorn",
+        "title": "Head of Artificial Intelligence",
+        "linkedin": "linkedin.com/in/pin-pin-tea-makorn",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "MasterExchange",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Alexander Fred-Ojala",
+        "title": "CEO & Co-founder",
+        "linkedin": "linkedin.com/in/alexanderfo",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "D20 Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Sungjoon Cho",
+        "title": "General Partner",
+        "linkedin": "https://www.linkedin.com/in/sungjooncho/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Generative Labs",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Luke Wang",
+        "title": "Co-founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/lukeglw/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "CyberConnect",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Ryan Li",
+        "title": "Co-founder",
+        "linkedin": "link3.to/ryan",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "KaratDAO",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Rudy Rong",
+        "title": "Founder",
+        "linkedin": "https://www.linkedin.com/in/rudy-rong-1884585b/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Co-Museum",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Chaw Wei Yang",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Aptos",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "David Oh",
+        "title": "Business Development Lead",
+        "linkedin": "https://www.linkedin.com/in/davidgeneoh/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Long Run Capital",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Daniel Maren",
+        "title": "CEO & Co-CIO",
+        "linkedin": "https://www.linkedin.com/in/daniel-maren-26784061/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "TOTO Express",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Gary Mao",
+        "title": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/maogary/",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Ojamu",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Hal Bame",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/hal-bame",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Syntrend (Foxconn Technology Group)",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Lee Chang",
+        "title": "Venture Partner and Advisor to Chairman",
+        "linkedin": "https://www.linkedin.com/in/changleewen",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "LYVC",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Leon Shi Han Ooi",
+        "title": "Investment Director",
+        "linkedin": "https://www.linkedin.com/in/shi-han-ooi",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "ZettaBlock",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Chi Zhang",
+        "title": "Founder",
+        "linkedin": "https://www.linkedin.com/in/chizhangucb",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "ARKN Ventures",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "George SanJuan",
+        "title": "Head of Marketing",
+        "linkedin": "https://www.linkedin.com/in/georgeasanjuan",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "AnChain.AI",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Victor Fang",
+        "title": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/drvictorfang",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "PDAX",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Nichel Gaba",
+        "title": "Founder & CEO",
+        "linkedin": "linkedin.com/in/nichel-gaba-cfa-57864a96",
+        "sheet": "TV Master"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "CVP NLH / Binance",
+    "contacts_count": 1,
+    "exec_count": 1,
+    "execs": [
+      {
+        "name": "Gin Chao",
+        "title": "Founder",
+        "linkedin": "",
+        "sheet": "Sygnal.xyz"
+      }
+    ],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Sonr",
+    "contacts_count": 4,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Tess Ventures",
+    "contacts_count": 3,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Izumi Finance",
+    "contacts_count": 3,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Wonderverse",
+    "contacts_count": 3,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Kosmos",
+    "contacts_count": 3,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Family Office",
+    "contacts_count": 3,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "refi deals"
+    ],
+    "notes": []
+  },
+  {
+    "company": "ECG",
+    "contacts_count": 3,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Stanford GSB",
+    "contacts_count": 3,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Virtue Alliance",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Formless",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Hash World",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Google",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": [
+      "Unsure"
+    ]
+  },
+  {
+    "company": "Scooty",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Shipyard (Clipper DEX)",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Kraken Exchange",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Stermion",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "IVC",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "KNN3",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Axie Infinity",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Com2uS USA",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "Saga (500k)",
+      "Mysten Labs (350k)"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Lotus Capital",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "BlockSync Ventures",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "Illuvium"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Dallas Mavericks basketball team",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "Metaprints (Soft commitment)",
+      "NFT Genius"
+    ],
+    "notes": []
+  },
+  {
+    "company": "hiddenstate.xyz",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Pomp Investments",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "NFT Genius"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Seven VC",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "CMT Digital",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "MetaZone.io",
+      "Improbable",
+      "Sfermion"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Animoca",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Gate.io Ventures",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "T.E.A.M DAO",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Krust Universe",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Libra Capital Ventures",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Baselayer Capital",
+    "contacts_count": 2,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "T.E.A.M DAO"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Valhalla Ventures",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "See Dao",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "LinkedIn",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "AAI"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Inertia Ventures",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "GoldenArc Capital",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Brahma",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Viva Translate",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Plentina",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Pareto",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Metaloop",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Genblock",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "CoScreen",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "blushh",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "AAG Ventures",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Dehorizon",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Pintaria",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "HCP"
+    ],
+    "notes": []
+  },
+  {
+    "company": "SAGA",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Snapchat",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Infinity Ventures Crypto",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Amber Group Japan",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Blockchain Space",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "FlamingoDAO",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Astar",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "CESS LAB LIMITED",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Our Happy Company",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Esports Players League",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Infinite Arcade",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Mechanism",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Rebel Works",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "Aitomatic"
+    ],
+    "notes": []
+  },
+  {
+    "company": "RSA",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "AAI"
+    ],
+    "notes": []
+  },
+  {
+    "company": "TekenAja",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "NFX",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Digital Galaxy VC",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Astrapto Capital",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "Ancient8"
+    ],
+    "notes": []
+  },
+  {
+    "company": "BigBrain Holdings",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "Infinite Arcade"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Everse Capital",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "T.E.A.M DAO",
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Sancor Capital",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "Metaprints (Soft commitment)"
+    ],
+    "notes": []
+  },
+  {
+    "company": "STEPN",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Chainlink Labs",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Sequoia",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "softBank Vision Fund 2",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "Improbable"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Zeuth Ventures",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Atlas Capital",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Impossible Finance",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Netease",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Palo Alto Platinum Fund",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "MagipopDAO",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Jsquare Ventures",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Affirm",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "The Concord Group",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "KPMG",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Berkeley SkyDeck",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "PlayStation",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "sharding capital",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Arcanum capital",
+    "contacts_count": 1,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Double.jump.tokyo",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "LDA Capital",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "Rubix"
+    ],
+    "notes": []
+  },
+  {
+    "company": "UOB",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "Metaprints"
+    ],
+    "notes": []
+  },
+  {
+    "company": "SoftBank Vision Fund 2",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "True Global Ventures",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Liberty City Ventures",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Galaxy Interactive",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Kingsway Capital",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Blue Pool Capital",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "LG Technology Ventures",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Alpaca VC",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Graticule Asset Management Asia",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Com2uS",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "executives at GoldenTree Asset Management, Nokota, Sun Hung Kai & Co",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Sound Ventures",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "SCB 10X",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Polygon Studios",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Samsung Next",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Double Down Partners",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "StakeFish",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "SterlingVC",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "HodlCo",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "The Sandbox"
+    ],
+    "notes": []
+  },
+  {
+    "company": "Arcane Labs",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Foresight Ventures",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "Greythorn Asset Management",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [],
+    "notes": []
+  },
+  {
+    "company": "ShowMe",
+    "contacts_count": 0,
+    "exec_count": 0,
+    "execs": [],
+    "invested_in": [
+      "KNN3"
+    ],
+    "notes": []
+  }
+]

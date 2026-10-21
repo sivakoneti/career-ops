@@ -1,0 +1,5764 @@
+[
+  {
+    "company": "Sygnal.xyz",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Julija Bainiaksina"
+    ]
+  },
+  {
+    "company": "Tess Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Associate"
+    ],
+    "names": [
+      "Joyce Zhang",
+      "Nicholas Tran"
+    ]
+  },
+  {
+    "company": "Valhalla Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Matt King"
+    ]
+  },
+  {
+    "company": "Rimac Automobili",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Mate Rimac"
+    ]
+  },
+  {
+    "company": "Superfans",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder"
+    ],
+    "names": [
+      "Arthur Blanchon",
+      "C\u00e9dric Sadai"
+    ]
+  },
+  {
+    "company": "dreadnought",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "MATT BALLESTEROS"
+    ]
+  },
+  {
+    "company": "Argo",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder"
+    ],
+    "names": [
+      "Enzo Coglitore"
+    ]
+  },
+  {
+    "company": "Shrapnel",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of Business Development"
+    ],
+    "names": [
+      "Francis ",
+      "Calvin Zhou"
+    ]
+  },
+  {
+    "company": "Sparkle Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Venture Capital Principal",
+      "General Partner"
+    ],
+    "names": [
+      "Thibaut Chess\u00e9",
+      "Julien Pagaud"
+    ]
+  },
+  {
+    "company": "Elysian",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "COO",
+      "CEO"
+    ],
+    "names": [
+      "Yoni Ophir",
+      "Joe\uff08Josemario\uff09 Zavala Page",
+      "Yuval Soiref"
+    ]
+  },
+  {
+    "company": "Hash Global",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "James (Kang) Shen"
+    ]
+  },
+  {
+    "company": "Clique",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 6,
+    "portfolio_refs": [],
+    "titles": [
+      "CMO",
+      "Product Designer",
+      "Co-Founder",
+      "CEO"
+    ],
+    "names": [
+      "Kevin Yu",
+      "Jaden Yan",
+      "Karla Leung"
+    ]
+  },
+  {
+    "company": "Playground",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Chief Operator",
+      "CEO"
+    ],
+    "names": [
+      "Linda Yang",
+      "Lindsay Gonzalez",
+      "Jennifer Cheng"
+    ]
+  },
+  {
+    "company": "Maxos",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder/CEO @ Maxos/Ally"
+    ],
+    "names": [
+      "Andy Singleton"
+    ]
+  },
+  {
+    "company": "Hype X",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder/CEO of HypeX"
+    ],
+    "names": [
+      "Stark Zhang"
+    ]
+  },
+  {
+    "company": "Ultrade",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder/CEO of Ultrade"
+    ],
+    "names": [
+      "Dan Goldman"
+    ]
+  },
+  {
+    "company": "blinkmoon.com",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Director of Communications"
+    ],
+    "names": [
+      "Hajeir Mazinani",
+      "Hugh Behroozy",
+      "Haven Thorn"
+    ]
+  },
+  {
+    "company": "Virtue Alliance",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Zach ",
+      "Daniel Ko"
+    ]
+  },
+  {
+    "company": "Ally Protocol",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO/CTO"
+    ],
+    "names": [
+      "Andy Singleton"
+    ]
+  },
+  {
+    "company": "Kithward",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Amber Ju"
+    ]
+  },
+  {
+    "company": "Metapass",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "CTO",
+      "CPO/CMO",
+      "CEO"
+    ],
+    "names": [
+      "Peter Brown",
+      "Richard Xiong",
+      "Kevin Katona"
+    ]
+  },
+  {
+    "company": "Continuum",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO",
+      "Cretive Director"
+    ],
+    "names": [
+      "Jamey Gannon",
+      "Jason Curry"
+    ]
+  },
+  {
+    "company": "modd.io",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Cofounder"
+    ],
+    "names": [
+      "Linda Yuan",
+      "Jaeyun Noh"
+    ]
+  },
+  {
+    "company": "Yesports",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of Marketing",
+      "Chief of Staff",
+      "Head Of Communications",
+      "CEO"
+    ],
+    "names": [
+      "Ben Le Roux",
+      "Majella Mensah",
+      "Sebastian Quinn",
+      "Tim Han"
+    ]
+  },
+  {
+    "company": "Amethyst",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Elliott Foote",
+      "Nicole Zhao"
+    ]
+  },
+  {
+    "company": "See Dao",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Diana Tang"
+    ]
+  },
+  {
+    "company": "Metaverse AI",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Henry Yan"
+    ]
+  },
+  {
+    "company": "Matrixworld",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 6,
+    "portfolio_refs": [],
+    "titles": [
+      "COO",
+      "CEO",
+      "CSO",
+      "CMO",
+      "CTO"
+    ],
+    "names": [
+      "Nick Young",
+      "Xiao Wu",
+      "Tim ",
+      "Alvin Sun",
+      "Kyle "
+    ]
+  },
+  {
+    "company": "Sovereign Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Kevin Sutantyo"
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "James Ji Zhao"
+    ]
+  },
+  {
+    "company": "AAI",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "LinkedIn",
+      "Direct Invested",
+      "Aitomatic",
+      "RSA"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Ignite Tournaments",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Cofounder"
+    ],
+    "names": [
+      "Tony Chen"
+    ]
+  },
+  {
+    "company": "Soundmint",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Brian Nguyen"
+    ]
+  },
+  {
+    "company": "Formless",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CMO",
+      "Info"
+    ],
+    "names": [
+      "Formless Info",
+      "Robin Chappelle"
+    ]
+  },
+  {
+    "company": "Double.jump.tokyo",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Recruiting",
+      "Info Email"
+    ],
+    "names": []
+  },
+  {
+    "company": "center app",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO Center Pixel"
+    ],
+    "names": [
+      "Omar Bohsali"
+    ]
+  },
+  {
+    "company": "Hypernet labs",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "COO",
+      "Co-investor",
+      "CEO"
+    ],
+    "names": [
+      "Jon Venverloh",
+      "Ivan Ravlich",
+      "Kevin Sutantyo"
+    ]
+  },
+  {
+    "company": "Metaprints",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [
+      "Efficient Frontier",
+      "Mintable",
+      "Global Founders Group",
+      "UOB",
+      "Mulana Capital",
+      "Mapleblock Capital",
+      "Cambium Capital Partners",
+      "Sequoia China",
+      "Shima Capital",
+      "Frontier Digital Ventures Ltd",
+      "Ankr",
+      "Signum Capital",
+      "Krafton/PUBG Corporation",
+      "Animoca Brands",
+      "Everse Capital",
+      "SoftBank Vision Fund"
+    ],
+    "titles": [
+      "Founder",
+      "CEO"
+    ],
+    "names": [
+      "Harry ",
+      "Harry Liu"
+    ]
+  },
+  {
+    "company": "EthSign",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "CTO",
+      "Legal Counsel",
+      "CRO",
+      "CEO"
+    ],
+    "names": [
+      "Heather Zhou",
+      "Xin Yan",
+      "Potter Li",
+      "Jack Xu"
+    ]
+  },
+  {
+    "company": "KNN3",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [
+      "Atlas Capital",
+      "MetaWeb Venture",
+      "Impossible Finance",
+      "ShowMe",
+      "RSS3",
+      "Fosun International",
+      "Incuba Alpha",
+      "Zeuth Ventures",
+      "Fundamental Labs",
+      "Eniac Venture",
+      "Mask Network",
+      "Stratified Capital",
+      "Cogitent Venture",
+      "EthSign"
+    ],
+    "titles": [],
+    "names": [
+      "Thomas (Wenqing) Yu",
+      "Errance Liu"
+    ]
+  },
+  {
+    "company": "People Reign",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Dan Turchin"
+    ]
+  },
+  {
+    "company": "Izumi Finance",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Marketing"
+    ],
+    "names": [
+      "Jimmy Yin",
+      "Izumii Marketing",
+      "Izumi Investments "
+    ]
+  },
+  {
+    "company": "Hash World",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Alex Luke",
+      "Hu Jun"
+    ]
+  },
+  {
+    "company": "Rct",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Xiankun Wu",
+      "Chris Zhu"
+    ]
+  },
+  {
+    "company": "May",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 6,
+    "portfolio_refs": [],
+    "titles": [
+      "COO",
+      "Operation Director",
+      "CEO",
+      "CSO",
+      "Product Director"
+    ],
+    "names": [
+      "Guangyao Gong",
+      "Felix Luo",
+      "Edward Yang",
+      "Joe Zhou",
+      "Kristina Gao"
+    ]
+  },
+  {
+    "company": "HCP",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Direct Invested",
+      "Pintaria"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Aitomatic",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [
+      "EVG",
+      "Mobisec",
+      "Direct Invested",
+      "Rebel Works"
+    ],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Christopher Nguyen"
+    ]
+  },
+  {
+    "company": "Inertia Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "GP"
+    ],
+    "names": [
+      "Nish Patel"
+    ]
+  },
+  {
+    "company": "FS Insight",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Head Of Research"
+    ],
+    "names": [
+      "Tom Lee"
+    ]
+  },
+  {
+    "company": "Coins Group",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder"
+    ],
+    "names": [
+      "Virginia Lam",
+      "Douglas Ching"
+    ]
+  },
+  {
+    "company": "Opensea",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [
+      "Direct Invested",
+      "Codex"
+    ],
+    "titles": [
+      "Content Lead"
+    ],
+    "names": [
+      "Gideon Welles"
+    ]
+  },
+  {
+    "company": "XVA Blockchain GmbH",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Nina Kaplan"
+    ]
+  },
+  {
+    "company": "Kosmos Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "GP",
+      "Director"
+    ],
+    "names": [
+      "Melanie Walker",
+      "Anton Uvarov"
+    ]
+  },
+  {
+    "company": "Codex",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Mark Meuller-Eberstein"
+    ]
+  },
+  {
+    "company": "CVP Asset Management Limited",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Director"
+    ],
+    "names": [
+      "Marco Tam"
+    ]
+  },
+  {
+    "company": "HCP II",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "CVP Asset Management Limited",
+      "Direct Invested"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Kraken",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Direct Invested"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Google",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "PM",
+      "Cloud Customer Engineer"
+    ],
+    "names": [
+      "Jasmine Li",
+      "Eeefy Lin"
+    ]
+  },
+  {
+    "company": "GoldenArc Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CIO"
+    ],
+    "names": [
+      "Ish Dugal"
+    ]
+  },
+  {
+    "company": "Brahma",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Alesandro Tenconi"
+    ]
+  },
+  {
+    "company": "Scooty",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Shoaib Ahmed",
+      "Shahid Pasha"
+    ]
+  },
+  {
+    "company": "Wonderverse",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Andros Wong",
+      "Terry ",
+      "Adam Hayes"
+    ]
+  },
+  {
+    "company": "Viva Translate",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Belinda Mo"
+    ]
+  },
+  {
+    "company": "Sonr",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Pradyumn Nukala",
+      "Ben ",
+      "Michael Amoako",
+      "Nick Tindle"
+    ]
+  },
+  {
+    "company": "Shipyard (Clipper DEX)",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Mark Lurie",
+      "Abe Othman"
+    ]
+  },
+  {
+    "company": "Plentina",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Kevin Gabayan"
+    ]
+  },
+  {
+    "company": "Pareto",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Phoebe Yao"
+    ]
+  },
+  {
+    "company": "Metaloop",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Jason Li"
+    ]
+  },
+  {
+    "company": "Genblock",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Kelghe D'cruz"
+    ]
+  },
+  {
+    "company": "CoScreen",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Till Pieper"
+    ]
+  },
+  {
+    "company": "blushh",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Soy Hwang"
+    ]
+  },
+  {
+    "company": "AAG Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Jack Vinijtrongjit"
+    ]
+  },
+  {
+    "company": "Dehorizon",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Shane Zhu"
+    ]
+  },
+  {
+    "company": "TuSimple",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Direct Invested"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "HCP III",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Direct Invested"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Kraken Exchange",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Kaiser Ng",
+      "Steve Hunt"
+    ]
+  },
+  {
+    "company": "Pintaria",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Ray Pulungan"
+    ]
+  },
+  {
+    "company": "Playible",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "COO"
+    ],
+    "names": [
+      "Michael Vehtic"
+    ]
+  },
+  {
+    "company": "Sfermion",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 4,
+    "portfolio_refs": [
+      "CMT Digital"
+    ],
+    "titles": [
+      "Managing Partner",
+      "General partner"
+    ],
+    "names": [
+      "Dan Patterson",
+      "Andrew Steinwold"
+    ]
+  },
+  {
+    "company": "Stermion",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Mo Larya",
+      "Mo Patel"
+    ]
+  },
+  {
+    "company": "Kosmos",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Sheridan ",
+      "Vladimir ",
+      "Lochie "
+    ]
+  },
+  {
+    "company": "SAGA",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Jin Kwon"
+    ]
+  },
+  {
+    "company": "Snapchat",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Pany Haritatos"
+    ]
+  },
+  {
+    "company": "IVC",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Brian Lu",
+      "Dan Wang"
+    ]
+  },
+  {
+    "company": "WazirX",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Nischal Shetty"
+    ]
+  },
+  {
+    "company": "Banana Factory Games",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "Product & Co-founder",
+      "CEO & Co-founder",
+      "Art Director",
+      "Game Design"
+    ],
+    "names": [
+      "Norbert Kalman",
+      "Heather ",
+      "Andrew Cheung",
+      "Dwayne "
+    ]
+  },
+  {
+    "company": "Vybe Network",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "COO",
+      "Tech Lead",
+      "Design and Product Management",
+      "CEO"
+    ],
+    "names": [
+      "Brian Cheng",
+      "Eoin Brady",
+      "Arun Dass",
+      "Morgan Yu"
+    ]
+  },
+  {
+    "company": "Metaverse Magna",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Dele Akinyemi",
+      "Henry Uku",
+      "Yele Bademosi",
+      "Taiwo Orilogbon"
+    ]
+  },
+  {
+    "company": "Nyan Heroes",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "CMO",
+      "CEO"
+    ],
+    "names": [
+      "Max Fu",
+      "Wengie ",
+      "Nayef Zarrour"
+    ]
+  },
+  {
+    "company": "C2 Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & Managing Partner"
+    ],
+    "names": [
+      "Cara Sun"
+    ]
+  },
+  {
+    "company": "Circle",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Jeremy Allaire"
+    ]
+  },
+  {
+    "company": "Souq",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "JonPaul Vega"
+    ]
+  },
+  {
+    "company": "MetaOne",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Hoon Heh"
+    ]
+  },
+  {
+    "company": "Ludex Technologies",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Jorge Diego Parra Marin"
+    ]
+  },
+  {
+    "company": "Metabase",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder"
+    ],
+    "names": [
+      "Juan Soemarno"
+    ]
+  },
+  {
+    "company": "Axie Infinity",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CGO",
+      "Japanese Ambassador"
+    ],
+    "names": [
+      "Albert Takagi",
+      "Jiho "
+    ]
+  },
+  {
+    "company": "XLD Finance",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Ian Estrada"
+    ]
+  },
+  {
+    "company": "Shopify",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of Blockchain Ecosystem"
+    ],
+    "names": [
+      "John Lee"
+    ]
+  },
+  {
+    "company": "Zebec",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Sam Thapaliya"
+    ]
+  },
+  {
+    "company": "Mystiko Network",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder"
+    ],
+    "names": [
+      "HyeonSu Im"
+    ]
+  },
+  {
+    "company": "Z Venture Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Associate",
+      "CEO"
+    ],
+    "names": [
+      "Shinichiro Hori",
+      "Lucheng Li"
+    ]
+  },
+  {
+    "company": "YGG SEA",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Chief Investment Officer",
+      "Co-Founder & Country Manager"
+    ],
+    "names": [
+      "Irene Umar",
+      "Daniel Wang"
+    ]
+  },
+  {
+    "company": "Yield Guild Games",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 5,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder"
+    ],
+    "names": [
+      "Beryl Li",
+      "Gabriel Dizon",
+      "Gabby Dizon"
+    ]
+  },
+  {
+    "company": "Com2uS USA",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "President"
+    ],
+    "names": [
+      "Michael Lee",
+      "Kyu Lee"
+    ]
+  },
+  {
+    "company": "Saga (500k)",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Com2uS USA"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Mysten Labs (350k)",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Com2uS USA"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Animoca Brands",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "founder and CEO",
+      "Brand Director"
+    ],
+    "names": [
+      "Yat Siu",
+      "Gen Kanai"
+    ]
+  },
+  {
+    "company": "AO",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO & Founder",
+      "CEO & Co-Founder"
+    ],
+    "names": [
+      "Christy Choi",
+      "Joony Koo"
+    ]
+  },
+  {
+    "company": "Infinity Ventures Crypto",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Advisor"
+    ],
+    "names": [
+      "JL Law"
+    ]
+  },
+  {
+    "company": "Coinbase Singapore",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of APAC Institutional Sales & COO"
+    ],
+    "names": [
+      "Kayvon Pirestani"
+    ]
+  },
+  {
+    "company": "Huobi",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of Listing"
+    ],
+    "names": [
+      "Zehua Chen"
+    ]
+  },
+  {
+    "company": "Amber Group Japan",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CBO"
+    ],
+    "names": [
+      "Yijin Li"
+    ]
+  },
+  {
+    "company": "Wave Financial",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "President & Co-founder"
+    ],
+    "names": [
+      "Benjamin Tsai"
+    ]
+  },
+  {
+    "company": "Lootex",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Justine Lu"
+    ]
+  },
+  {
+    "company": "Blockchain Space",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Corporate Strategy & Growth Manager"
+    ],
+    "names": [
+      "Jen "
+    ]
+  },
+  {
+    "company": "Off Topic, Inc.",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Tetsuro Miyatake"
+    ]
+  },
+  {
+    "company": "KLKTN.com",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CTO"
+    ],
+    "names": [
+      "Fabiano Pereira Soriani"
+    ]
+  },
+  {
+    "company": "WOMBO",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Ben-Zion Benkhin"
+    ]
+  },
+  {
+    "company": "Sol Sniper",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Max Zhuang"
+    ]
+  },
+  {
+    "company": "FlamingoDAO",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Melody Taira"
+    ]
+  },
+  {
+    "company": "Parity Technologies",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of Parity Asia"
+    ],
+    "names": [
+      "Helena Wang"
+    ]
+  },
+  {
+    "company": "Klaytn Foundation",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Global Head of Adoption"
+    ],
+    "names": [
+      "David Shin"
+    ]
+  },
+  {
+    "company": "Astar",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Senior Business Development"
+    ],
+    "names": [
+      "Rotten "
+    ]
+  },
+  {
+    "company": "Solana",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of Business Development"
+    ],
+    "names": [
+      "Dominic Tsang"
+    ]
+  },
+  {
+    "company": "Polygon",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Developer Relations APAC Lead",
+      "Gaming Investments"
+    ],
+    "names": [
+      "Kevin Ang",
+      "Steven Bryson-Haynes"
+    ]
+  },
+  {
+    "company": "Metap",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Maxi Kuan"
+    ]
+  },
+  {
+    "company": "Semiotic AI, INC.",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Ahmet Ozcan"
+    ]
+  },
+  {
+    "company": "Trading Strategy",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Mikko Ohtamaa"
+    ]
+  },
+  {
+    "company": "Bru Finance",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Ashish Anand"
+    ]
+  },
+  {
+    "company": "dYdX Foiundation",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of Growth & Operations"
+    ],
+    "names": [
+      "David Gogel"
+    ]
+  },
+  {
+    "company": "XY Finance",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Wilson Huang"
+    ]
+  },
+  {
+    "company": "Yomi Games",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder"
+    ],
+    "names": [
+      "Jason Lee"
+    ]
+  },
+  {
+    "company": "Monarch Gaming LLC",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Albert "
+    ]
+  },
+  {
+    "company": "PT. Meta Fantasy Indonesia",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CSO & Co-founder"
+    ],
+    "names": [
+      "Chen Chao"
+    ]
+  },
+  {
+    "company": "ConsenSys",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Strategic Sales Director"
+    ],
+    "names": [
+      "Masa Kakiya"
+    ]
+  },
+  {
+    "company": "SINEST Corporation",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CBO & President Director"
+    ],
+    "names": [
+      "Steve Heung Hwan Kim"
+    ]
+  },
+  {
+    "company": "CESS LAB LIMITED",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Chairman"
+    ],
+    "names": [
+      "Nicholas Zaldastani"
+    ]
+  },
+  {
+    "company": "Nakji Network",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO & Co-founder"
+    ],
+    "names": [
+      "Allie Zhang"
+    ]
+  },
+  {
+    "company": "Bware Labs",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Flavian-Costin Manea"
+    ]
+  },
+  {
+    "company": "Quivr",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & CEO"
+    ],
+    "names": [
+      "Raymond Lee"
+    ]
+  },
+  {
+    "company": "Crowdpad",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO & Co-founder"
+    ],
+    "names": [
+      "Joel Tom Alexander"
+    ]
+  },
+  {
+    "company": "Our Happy Company",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "President"
+    ],
+    "names": [
+      "Ken Cheung"
+    ]
+  },
+  {
+    "company": "RSS3",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "COO"
+    ],
+    "names": [
+      "Joshua Meng",
+      "Jiaqi Liu"
+    ]
+  },
+  {
+    "company": "Checks Finance",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Yu Gao"
+    ]
+  },
+  {
+    "company": "Whydah",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO & Founder"
+    ],
+    "names": [
+      "Tri Pham"
+    ]
+  },
+  {
+    "company": "SimWin Sports",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO/CTO & Founder"
+    ],
+    "names": [
+      "David J. Ortiz"
+    ]
+  },
+  {
+    "company": "Esports Players League",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "President"
+    ],
+    "names": [
+      "Lau Kin Wai"
+    ]
+  },
+  {
+    "company": "Infinite Arcade",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [
+      "Shiva Capital",
+      "Jump Capital",
+      "BigBrain Holdings",
+      "Huobi Ventures",
+      "Hyperithm",
+      "Animal Ventures",
+      "Move Capital"
+    ],
+    "titles": [
+      "CBO"
+    ],
+    "names": [
+      "Jon Hook"
+    ]
+  },
+  {
+    "company": "Bloxsmith",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Wayne Lee"
+    ]
+  },
+  {
+    "company": "Gacha Monster",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of Corporate Strategy"
+    ],
+    "names": [
+      "Duo Liu"
+    ]
+  },
+  {
+    "company": "Transcend",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Director"
+    ],
+    "names": [
+      "Andrew Sheppard"
+    ]
+  },
+  {
+    "company": "BlockTower Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of Asia"
+    ],
+    "names": [
+      "Steve Lee"
+    ]
+  },
+  {
+    "company": "Bewnab Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Lai Yu Kan Adrian"
+    ]
+  },
+  {
+    "company": "Sanctum PTE. LTD",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO & Co-founder"
+    ],
+    "names": [
+      "Pang Yen Zhang"
+    ]
+  },
+  {
+    "company": "Standard Crypto",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder & Managing Director"
+    ],
+    "names": [
+      "Adam Goldberg"
+    ]
+  },
+  {
+    "company": "Mechanism",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Andrew Kang"
+    ]
+  },
+  {
+    "company": "New Chic Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Investor/Founder"
+    ],
+    "names": [
+      "John Lee"
+    ]
+  },
+  {
+    "company": "Rari Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Investor/Founder"
+    ],
+    "names": [
+      "Jai Bhavnani"
+    ]
+  },
+  {
+    "company": "Mobisec",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO&Founder"
+    ],
+    "names": [
+      "Alberto Zannol"
+    ]
+  },
+  {
+    "company": "EVG",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder&Partner"
+    ],
+    "names": [
+      "Jerome Wong"
+    ]
+  },
+  {
+    "company": "Rebel Works",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Michael Cheung"
+    ]
+  },
+  {
+    "company": "RSA",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "James Fong"
+    ]
+  },
+  {
+    "company": "TekenAja",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Alwin Kiemas"
+    ]
+  },
+  {
+    "company": "Jsquare",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder & CEO"
+    ],
+    "names": [
+      "James Wo"
+    ]
+  },
+  {
+    "company": "NFX",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Finance & Investor Relations"
+    ],
+    "names": [
+      "Natalie Chen"
+    ]
+  },
+  {
+    "company": "MPower Partners",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner"
+    ],
+    "names": [
+      "Kathy Matsui"
+    ]
+  },
+  {
+    "company": "LDA Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Rubix",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "LDA Capital"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Siamrajathanee Public Company Limited",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Nattaphol Vimolchalao"
+    ]
+  },
+  {
+    "company": "Digital Galaxy VC",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Chris Rhine"
+    ]
+  },
+  {
+    "company": "Republic Crypto",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 5,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Andrew ",
+      "Alex Ye",
+      "Bryan "
+    ]
+  },
+  {
+    "company": "Hustle Fund",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder & General Partner"
+    ],
+    "names": [
+      "Eric Bahn"
+    ]
+  },
+  {
+    "company": "MSA Novo",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Tim C"
+    ]
+  },
+  {
+    "company": "John Dempsey company",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "MSA Novo"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Modular Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder"
+    ],
+    "names": [
+      "James Ho"
+    ]
+  },
+  {
+    "company": "Brevan Howard",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Aron Landy"
+    ]
+  },
+  {
+    "company": "Supermojo",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "FJ Labs",
+      "Intersection Growth Partners",
+      "BlockFi Ventures",
+      "Sfermion",
+      "Crossbeam Venture Partners",
+      "Arca",
+      "Everyrealm",
+      "Gemini",
+      "Ripple Ventures",
+      "Arrington Capital",
+      "Draper",
+      "FBG Capital",
+      "DRW Venture Capital",
+      "Circle Ventures",
+      "BH Digital",
+      "Brevan Howard",
+      "Red Beard Ventures",
+      "OP Crypto",
+      "Neuberger Berman"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "BH Digital",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "COO"
+    ],
+    "names": [
+      "Adam Gibbons",
+      "Colleen Sullivan"
+    ]
+  },
+  {
+    "company": "DRW Venture Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "founder and CEO"
+    ],
+    "names": [
+      "Don Wilson"
+    ]
+  },
+  {
+    "company": "Intersection Growth Partners",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder & partner",
+      "co-founder & partner"
+    ],
+    "names": [
+      "Elizabeth Anderson",
+      "Scott Fletcher"
+    ]
+  },
+  {
+    "company": "Neuberger Berman",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Chairman & CEO"
+    ],
+    "names": [
+      "George Herbert Walker"
+    ]
+  },
+  {
+    "company": "Arca",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Chief Executive Officer, & Co-Founder",
+      "Chief Legal Officer, Co-Founder",
+      "Chief Investment Officer, Co-Founder"
+    ],
+    "names": [
+      "Jeff Dorman",
+      "Philip Liu",
+      "Rayne Steinberg"
+    ]
+  },
+  {
+    "company": "Gemini",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder & CEO"
+    ],
+    "names": [
+      "Tyler Winklevoss",
+      "Cameron Winklevoss"
+    ]
+  },
+  {
+    "company": "Everyrealm",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder",
+      "CEO"
+    ],
+    "names": [
+      "Janine Yorio",
+      "Julia Schwartz"
+    ]
+  },
+  {
+    "company": "Arrington Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Heather Harde",
+      "Michael Arrington"
+    ]
+  },
+  {
+    "company": "BlockFi Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder",
+      "Co-founder & CEO"
+    ],
+    "names": [
+      "Zac Prince",
+      "Flori Marquez"
+    ]
+  },
+  {
+    "company": "Circle Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "COO",
+      "Co-founder & CEO",
+      "Co-founder, Chairman & CEO"
+    ],
+    "names": [
+      "Elisabeth Carpenter",
+      "Jeremy Allaire",
+      "Ryan Feit"
+    ]
+  },
+  {
+    "company": "Crossbeam Venture Partners",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner"
+    ],
+    "names": [
+      "Christopher Ryan",
+      "Raj Date",
+      "Ali Hamed",
+      "Savneet Singh"
+    ]
+  },
+  {
+    "company": "Draper",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Tim Draper"
+    ]
+  },
+  {
+    "company": "FJ Labs",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner",
+      "Founding Partner"
+    ],
+    "names": [
+      "Jeff Weinstein",
+      "Fabrice Grinda",
+      "Arne Halleraker",
+      "Jose Marin"
+    ]
+  },
+  {
+    "company": "FBG Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Investment Director",
+      "Founder"
+    ],
+    "names": [
+      "Daniel Kim",
+      "Vincent Shuoji Zhou"
+    ]
+  },
+  {
+    "company": "OP Crypto",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder, General Partner"
+    ],
+    "names": [
+      "David Gan"
+    ]
+  },
+  {
+    "company": "Red Beard Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & Managing Partner"
+    ],
+    "names": [
+      "Drew Austin"
+    ]
+  },
+  {
+    "company": "Ripple Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & Managing Partner"
+    ],
+    "names": [
+      "Matt Cohen"
+    ]
+  },
+  {
+    "company": "Vina Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "VP"
+    ],
+    "names": [
+      "Richard Han"
+    ]
+  },
+  {
+    "company": "Arcane Group",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Neil Su"
+    ]
+  },
+  {
+    "company": "Metaone",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Arcane Group"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Wintermute",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder & head of BD"
+    ],
+    "names": [
+      "Yoann Turpin"
+    ]
+  },
+  {
+    "company": "Mirana Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 5,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "David Toh",
+      "Chris Kurdzie",
+      "Jon Allen"
+    ]
+  },
+  {
+    "company": "Makers Fund",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner"
+    ],
+    "names": [
+      "Michael Cheung"
+    ]
+  },
+  {
+    "company": "Ancient8",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Folius Ventures",
+      "C\u00b2 Ventures",
+      "Sky9 Capital",
+      "Sanctor Capital",
+      "Playground Ventures",
+      "DWeb3",
+      "Israeli Blockchain Association",
+      "Astrapto Capital",
+      "K300 Ventures",
+      "6th Man Ventures",
+      "Makers Fund",
+      "Play Ventures",
+      "Morningstar Ventures",
+      "HC Ventures",
+      "IOSG Ventures",
+      "Pantera Capital",
+      "GFS Ventures"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "6th Man Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder and General Partner",
+      "Founder & General Partner"
+    ],
+    "names": [
+      "Mike Dudas",
+      "Serge Kassardjian"
+    ]
+  },
+  {
+    "company": "Pantera Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 6,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & CEO",
+      "Co-Chief Investment Officer",
+      "Partner",
+      "CEO"
+    ],
+    "names": [
+      "Lauren Stephanian",
+      "Paul Veradittakit",
+      "Joey Krug",
+      "Dan Morehead"
+    ]
+  },
+  {
+    "company": "IOSG Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 5,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner",
+      "Founding Partner"
+    ],
+    "names": [
+      "Jocy Lin",
+      "Xinshu Dong",
+      "Queenie Wu"
+    ]
+  },
+  {
+    "company": "Folius Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Jason Kam"
+    ]
+  },
+  {
+    "company": "Play Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Vice President",
+      "Founding Partner"
+    ],
+    "names": [
+      "Phylicia Koh",
+      "Henric Suuronen",
+      "Harri Manninen"
+    ]
+  },
+  {
+    "company": "Sky9 Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "Principal",
+      "Founder and Managing Partner"
+    ],
+    "names": [
+      "John Fan",
+      "Ron Cao"
+    ]
+  },
+  {
+    "company": "Morningstar Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder & CFO",
+      "Co-Founder & CEO"
+    ],
+    "names": [
+      "Danilo S. Carlucci",
+      "Arut Nazaryan"
+    ]
+  },
+  {
+    "company": "Sanctor Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner",
+      "Founder"
+    ],
+    "names": [
+      "Han Kao",
+      "Jay Putera",
+      "Ilya Abugov"
+    ]
+  },
+  {
+    "company": "DWeb3",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder"
+    ],
+    "names": [
+      "Richard Yuen"
+    ]
+  },
+  {
+    "company": "Israeli Blockchain Association",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "COO"
+    ],
+    "names": [
+      "Tal Shahar"
+    ]
+  },
+  {
+    "company": "Astrapto Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Vice President"
+    ],
+    "names": [
+      "Henry Zhou"
+    ]
+  },
+  {
+    "company": "K300 Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Mai Nghia"
+    ]
+  },
+  {
+    "company": "GFS Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Gary Stanford"
+    ]
+  },
+  {
+    "company": "HC Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder and CEO"
+    ],
+    "names": [
+      "Ryan Nguyen"
+    ]
+  },
+  {
+    "company": "Playground Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO & director",
+      "Chairman"
+    ],
+    "names": [
+      "Jon Gill",
+      "Christopher Irwin"
+    ]
+  },
+  {
+    "company": "Binance",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 9,
+    "portfolio_refs": [],
+    "titles": [
+      "Chief Strategy Officer",
+      "Chain Business Development",
+      "CEO"
+    ],
+    "names": [
+      "Gin ",
+      "Malcolm ",
+      "Lee Zhu",
+      "Changpeng Zhao",
+      "Gin Chao"
+    ]
+  },
+  {
+    "company": "GBIC (Global Blockchain Innovative Capital)",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Sinhae Lee"
+    ]
+  },
+  {
+    "company": "CRT Labs",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Vinson (Vinny) Lee Leow"
+    ]
+  },
+  {
+    "company": "C\u00b2 Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Ciara Sun"
+    ]
+  },
+  {
+    "company": "Newman Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner",
+      "Founder"
+    ],
+    "names": [
+      "Anthony Cheng",
+      "Adrian L"
+    ]
+  },
+  {
+    "company": "Longhash Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing partner"
+    ],
+    "names": [
+      "Emma Cui"
+    ]
+  },
+  {
+    "company": "NGC Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Investment team",
+      "Founding partner"
+    ],
+    "names": [
+      "Roger Lim",
+      "Jack Lu",
+      "Tony Gu"
+    ]
+  },
+  {
+    "company": "T.E.A.M DAO",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [
+      "Nxgen",
+      "Algorand",
+      "NGC Ventures",
+      "Octava",
+      "Baselayer Capital",
+      "GSR Capital",
+      "Shima Capital",
+      "DWF Labs",
+      "Krust Universe",
+      "Gains Associates",
+      "Nexo Capital",
+      "Anti Fund",
+      "Rising Capital",
+      "Ex Capital",
+      "Coinhako",
+      "Animoca Brands",
+      "Everse Capital",
+      "Libra Capital Ventures"
+    ],
+    "titles": [
+      "Founding Team"
+    ],
+    "names": [
+      "Joshua Toh"
+    ]
+  },
+  {
+    "company": "1kx",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Research Partner",
+      "Founding partner"
+    ],
+    "names": [
+      "Lasse Clausen",
+      "Dmitriy Berenzon",
+      "Christopher Heymann"
+    ]
+  },
+  {
+    "company": "Move Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner",
+      "Founding partner"
+    ],
+    "names": [
+      "William Barnes",
+      "Amr Alshihabi"
+    ]
+  },
+  {
+    "company": "Shiva Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & CEO"
+    ],
+    "names": [
+      "Felix Hick"
+    ]
+  },
+  {
+    "company": "Huobi Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & CEO"
+    ],
+    "names": [
+      "Leon Li"
+    ]
+  },
+  {
+    "company": "Jump Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder & Partner",
+      "Operating Partner"
+    ],
+    "names": [
+      "Peter Carroll",
+      "Sach Chitnis"
+    ]
+  },
+  {
+    "company": "Animal Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & Managing partner"
+    ],
+    "names": [
+      "Bettina Warburg",
+      "Tom Serres"
+    ]
+  },
+  {
+    "company": "Hyperithm",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & CEO",
+      "Founder & CTO",
+      "CEO"
+    ],
+    "names": [
+      "Sangrok OH",
+      "Woojin Kim",
+      "Wonjun Lloyd Lee"
+    ]
+  },
+  {
+    "company": "BigBrain Holdings",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Anonymous "
+    ]
+  },
+  {
+    "company": "ROK Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner"
+    ],
+    "names": [
+      "Brian Kang"
+    ]
+  },
+  {
+    "company": "WAGMI Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Venture partner"
+    ],
+    "names": [
+      "Zituo (Henry) Chen"
+    ]
+  },
+  {
+    "company": "6MV",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "WAGMI Ventures"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "DoNotPay",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "WAGMI Ventures"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Griffin Gaming",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "WAGMI Ventures"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Illuvium",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Bitscale Capital",
+      "Yield Guild Games",
+      "Synthetix",
+      "Delphi Digital",
+      "Quantstamp",
+      "SandBox",
+      "BlockSync Ventures",
+      "Bitcoin.com",
+      "Aave",
+      "Barnbridge",
+      "Spartan Capital/Brockcrunch",
+      "Band Protocol",
+      "ParaFi",
+      "Moonwhale Ventures",
+      "Lotus Capital",
+      "1Inch DEX",
+      "YBB Foundation",
+      "Stake Capital",
+      "IOSG Ventures",
+      "LD Capital"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "LD Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 6,
+    "portfolio_refs": [],
+    "titles": [
+      "Investment Manager",
+      "Founder"
+    ],
+    "names": [
+      "Jack Yi",
+      "Allen Chen",
+      "Yilan Liu"
+    ]
+  },
+  {
+    "company": "YBB Foundation",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder"
+    ],
+    "names": [
+      "Hugh Guan"
+    ]
+  },
+  {
+    "company": "Delphi Digital",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 6,
+    "portfolio_refs": [],
+    "titles": [
+      "Ventures Associate",
+      "Co-founder",
+      "Co-founder & COO"
+    ],
+    "names": [
+      "Alex Golding",
+      "Anil Lulla",
+      "Tom Shaughnessy"
+    ]
+  },
+  {
+    "company": "Stake Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & CEO"
+    ],
+    "names": [
+      "Julien Bouteloup"
+    ]
+  },
+  {
+    "company": "Moonwhale Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder",
+      "Co-Founder & CEO"
+    ],
+    "names": [
+      "Danny Christ",
+      "Stefan Bergstr\u00f6m"
+    ]
+  },
+  {
+    "company": "Lotus Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Anonymous "
+    ]
+  },
+  {
+    "company": "BlockSync Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Anonymous "
+    ]
+  },
+  {
+    "company": "Bitscale Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & CEO"
+    ],
+    "names": [
+      "Kazhiloti Zurab"
+    ]
+  },
+  {
+    "company": "Quantstamp",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Richard Ma"
+    ]
+  },
+  {
+    "company": "Synthetix",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Kain Warwick"
+    ]
+  },
+  {
+    "company": "Aave",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Stani Kulechov"
+    ]
+  },
+  {
+    "company": "1Inch DEX",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Anton Bukov"
+    ]
+  },
+  {
+    "company": "Barnbridge",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Tyler Ward"
+    ]
+  },
+  {
+    "company": "ParaFi",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Santiago Santos"
+    ]
+  },
+  {
+    "company": "Bitcoin.com",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Danish Chaudhry"
+    ]
+  },
+  {
+    "company": "Spartan Capital/Brockcrunch",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner/Founder"
+    ],
+    "names": [
+      "Jason Choi"
+    ]
+  },
+  {
+    "company": "NFT Genius",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Dapper Labs",
+      "Commonwealth Asset Management LP (CWAM)",
+      "Dallas Mavericks basketball team",
+      "Direct Invested",
+      "Fundamental Labs",
+      "OneFootball",
+      "Pomp Investments",
+      "Spartan Capital/Brockcrunch",
+      "Unibanco"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "SandBox",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Sebastien Borget"
+    ]
+  },
+  {
+    "company": "Band Protocol",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of Business Development & Growth"
+    ],
+    "names": [
+      "Kevin Lu"
+    ]
+  },
+  {
+    "company": "Launchpad Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Ryan Gilbert"
+    ]
+  },
+  {
+    "company": "Rocketplace",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Better Tomorrow Ventures",
+      "Soma Capital",
+      "TTV Capital",
+      "Accomplice VC",
+      "Launchpad Capital",
+      "Menlo Ventures"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Accomplice VC",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founding partner"
+    ],
+    "names": [
+      "Jeff Fagnan"
+    ]
+  },
+  {
+    "company": "TTV Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder and Managing Partner"
+    ],
+    "names": [
+      "Gardiner Garrard"
+    ]
+  },
+  {
+    "company": "Menlo Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & Partner",
+      "Managing Director"
+    ],
+    "names": [
+      "H. DuBose Montgomery",
+      "Mark Siegel"
+    ]
+  },
+  {
+    "company": "Soma Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Director"
+    ],
+    "names": [
+      "Aneel Ranadive"
+    ]
+  },
+  {
+    "company": "Better Tomorrow Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder / GP",
+      "Founding Partner"
+    ],
+    "names": [
+      "Sheel Mohnot",
+      "Jake Gibson"
+    ]
+  },
+  {
+    "company": "Frontier Digital Ventures Ltd",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO & Founder"
+    ],
+    "names": [
+      "Shaun Di Gregorio"
+    ]
+  },
+  {
+    "company": "Sequoia China",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founding and managing partner"
+    ],
+    "names": [
+      "Neil Shen"
+    ]
+  },
+  {
+    "company": "Krafton/PUBG Corporation",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Kim Chang-han"
+    ]
+  },
+  {
+    "company": "SoftBank Vision Fund",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Rajeev Misra"
+    ]
+  },
+  {
+    "company": "Everse Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Anonymous "
+    ]
+  },
+  {
+    "company": "Mulana Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Gilbert Ng",
+      "Gillian Wu"
+    ]
+  },
+  {
+    "company": "Signum Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Partner",
+      "Partner"
+    ],
+    "names": [
+      "John Ng Pangilinan",
+      "YY Lai"
+    ]
+  },
+  {
+    "company": "UOB",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Mintable",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Zach Burks"
+    ]
+  },
+  {
+    "company": "Mapleblock Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Partner"
+    ],
+    "names": [
+      "Vijay Garg"
+    ]
+  },
+  {
+    "company": "Shima Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing General Partner"
+    ],
+    "names": [
+      "Yida Gao"
+    ]
+  },
+  {
+    "company": "Global Founders Group",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Don Stalter",
+      "Kateryna Naryzhnova",
+      "Soheil Mirpour",
+      "Sarra Zayani"
+    ]
+  },
+  {
+    "company": "Cambium Capital Partners",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Partner",
+      "General Partner"
+    ],
+    "names": [
+      "David Moehring",
+      "Landon Downs"
+    ]
+  },
+  {
+    "company": "Ankr",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder & CEO"
+    ],
+    "names": [
+      "Chandler Song"
+    ]
+  },
+  {
+    "company": "Efficient Frontier",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder & Chief Research"
+    ],
+    "names": [
+      "Ori Cohen"
+    ]
+  },
+  {
+    "company": "Harmony",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "President",
+      "CEO"
+    ],
+    "names": [
+      "Jay Platt",
+      "Robert Dean"
+    ]
+  },
+  {
+    "company": "Metaprints (Soft commitment)",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Dapper Labs",
+      "Dallas Mavericks basketball team",
+      "Sancor Capital",
+      "Harmony",
+      "Direct Invested",
+      "Sagard",
+      "Serafund",
+      "IDG China"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "IDG China",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Xiaojun Li",
+      "Mei Gao"
+    ]
+  },
+  {
+    "company": "Sagard",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Paul Desmarais III"
+    ]
+  },
+  {
+    "company": "Sancor Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Anonymous "
+    ]
+  },
+  {
+    "company": "Serafund",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Partner",
+      "Partner",
+      "Founding Partner"
+    ],
+    "names": [
+      "Andrew Zhu",
+      "Charlie Chen",
+      "Anthony Wang"
+    ]
+  },
+  {
+    "company": "Dapper Labs",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder/CEO"
+    ],
+    "names": [
+      "Roham Gharegozlou"
+    ]
+  },
+  {
+    "company": "Dallas Mavericks basketball team",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Owner"
+    ],
+    "names": [
+      "Mark Cuban"
+    ]
+  },
+  {
+    "company": "Parallel life NFT",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder"
+    ],
+    "names": [
+      "Sascha Darius Mojtahedi"
+    ]
+  },
+  {
+    "company": "FirstMark",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Director"
+    ],
+    "names": [
+      "Matt Turck"
+    ]
+  },
+  {
+    "company": "Stratified Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founding Partner"
+    ],
+    "names": [
+      "Katrina Wang"
+    ]
+  },
+  {
+    "company": "Binance Australia",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Leigh Travers"
+    ]
+  },
+  {
+    "company": "ArkStream Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner"
+    ],
+    "names": [
+      "Jean Zheng"
+    ]
+  },
+  {
+    "company": "hiddenstate.xyz",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Owner"
+    ],
+    "names": [
+      "Aaron Li"
+    ]
+  },
+  {
+    "company": "STEPN",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Chief Revenue Officer"
+    ],
+    "names": [
+      "Mable Jiang"
+    ]
+  },
+  {
+    "company": "DataMasters.it",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Luigi Congedo"
+    ]
+  },
+  {
+    "company": "Web3Auth",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder"
+    ],
+    "names": [
+      "Zen (Zhen Yu) Yong"
+    ]
+  },
+  {
+    "company": "Onchain Capital",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Ran Neuner"
+    ]
+  },
+  {
+    "company": "RNR Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner and Co-Founder",
+      "General Partner"
+    ],
+    "names": [
+      "Shawn Tsao",
+      "Min Park"
+    ]
+  },
+  {
+    "company": "Commonwealth Asset Management LP (CWAM)",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder and Chief Investment Officer"
+    ],
+    "names": [
+      "Adam Fisher"
+    ]
+  },
+  {
+    "company": "Fundamental Labs",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder & Managing Partner"
+    ],
+    "names": [
+      "Howard Yuan"
+    ]
+  },
+  {
+    "company": "OneFootball",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO & Founder"
+    ],
+    "names": [
+      "Lucas von Cranach"
+    ]
+  },
+  {
+    "company": "Unibanco",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Milton Maluhy Filho"
+    ]
+  },
+  {
+    "company": "Pomp Investments",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Entrepreneur / Investor"
+    ],
+    "names": [
+      "Anthony Pompliano"
+    ]
+  },
+  {
+    "company": "Palumni VC",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founding Partner"
+    ],
+    "names": [
+      "Luba Lesiva"
+    ]
+  },
+  {
+    "company": "8VC",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner",
+      "Partner"
+    ],
+    "names": [
+      "Joe Lonsdale",
+      "Alex Moore"
+    ]
+  },
+  {
+    "company": "Initialized Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Garry Tan"
+    ]
+  },
+  {
+    "company": "Anduril Industries",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder"
+    ],
+    "names": [
+      "Trae Stephens",
+      "Matt Grimm"
+    ]
+  },
+  {
+    "company": "Arena",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO and Co-Founder"
+    ],
+    "names": [
+      "Pratap Ranade"
+    ]
+  },
+  {
+    "company": "TheNode.fi",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Business Lead"
+    ],
+    "names": [
+      "Evan Kereiakes"
+    ]
+  },
+  {
+    "company": "Arcanum Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "Founding Partner"
+    ],
+    "names": [
+      "Luchang Zheng",
+      "Luo Chen"
+    ]
+  },
+  {
+    "company": "Node Finance",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder"
+    ],
+    "names": [
+      "Eric Cuellar"
+    ]
+  },
+  {
+    "company": "Chainlink Labs",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Ecosystem Investments & Strategy"
+    ],
+    "names": [
+      "Elvie Kamalova"
+    ]
+  },
+  {
+    "company": "Starlite Investment Group",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Alfred Chu"
+    ]
+  },
+  {
+    "company": "Seven VC",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Susan "
+    ]
+  },
+  {
+    "company": "new web 3 crypto fund",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner"
+    ],
+    "names": [
+      "Yen Shiau Shiau"
+    ]
+  },
+  {
+    "company": "Serena Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Partner"
+    ],
+    "names": [
+      "Serena Williams"
+    ]
+  },
+  {
+    "company": "The Bright App",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CTO"
+    ],
+    "names": [
+      "James Zhang"
+    ]
+  },
+  {
+    "company": "Stacked",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [
+      "Scale AI",
+      "GOAT",
+      "GFR Fund",
+      "Nothing",
+      "Z Venture Capital",
+      "Pantera Capital"
+    ],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Alex Lin"
+    ]
+  },
+  {
+    "company": "GFR Fund",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 6,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner"
+    ],
+    "names": [
+      "Teppei Tsutsui",
+      "Yasushi Komori",
+      "Masaki Fujimoto"
+    ]
+  },
+  {
+    "company": "Scale AI",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Alexandr Wang"
+    ]
+  },
+  {
+    "company": "GOAT",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO"
+    ],
+    "names": [
+      "Eddy Lu"
+    ]
+  },
+  {
+    "company": "Nothing",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder"
+    ],
+    "names": [
+      "Carl Pei"
+    ]
+  },
+  {
+    "company": "OnePiece Labs",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Murray Newlands"
+    ]
+  },
+  {
+    "company": "UpHonest Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Venture Scout",
+      "Founding Partner"
+    ],
+    "names": [
+      "Wei Guo",
+      "Xinru Yang"
+    ]
+  },
+  {
+    "company": "OnePiece Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Kezheng (KJ) Jia"
+    ]
+  },
+  {
+    "company": "SoftBank Vision Fund 2",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "The Sandbox",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Sound Ventures",
+      "Samsung Next",
+      "executives at GoldenTree Asset Management, Nokota, Sun Hung Kai & Co",
+      "Double Down Partners",
+      "Blue Pool Capital",
+      "SCB 10X",
+      "StakeFish",
+      "Galaxy Interactive",
+      "Alpaca VC",
+      "HodlCo",
+      "SterlingVC",
+      "Polygon Studios",
+      "SoftBank Vision Fund 2",
+      "LG Technology Ventures",
+      "Graticule Asset Management Asia",
+      "Red Beard Ventures",
+      "Liberty City Ventures",
+      "Kingsway Capital",
+      "True Global Ventures",
+      "Com2uS"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "True Global Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Liberty City Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Galaxy Interactive",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Kingsway Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Blue Pool Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "LG Technology Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Alpaca VC",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Graticule Asset Management Asia",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Com2uS",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "executives at GoldenTree Asset Management, Nokota, Sun Hung Kai & Co",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Sound Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "SCB 10X",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Polygon Studios",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Samsung Next",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Double Down Partners",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "StakeFish",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "SterlingVC",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "HodlCo",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Token Bay Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & Managing Partner"
+    ],
+    "names": [
+      "Lucy Gazmararian"
+    ]
+  },
+  {
+    "company": "Sequoia",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Tony "
+    ]
+  },
+  {
+    "company": "CMT Digital",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Investor"
+    ],
+    "names": [
+      "Charlie Sandor"
+    ]
+  },
+  {
+    "company": "MetaZone.io",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [
+      "CMT Digital"
+    ],
+    "titles": [
+      "Co-Founder"
+    ],
+    "names": [
+      "William Gomez"
+    ]
+  },
+  {
+    "company": "Improbable",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [
+      "Andreessen Horowitz",
+      "Mirana Ventures",
+      "CMT Digital",
+      "Digital Currency Group",
+      "Morgan Creek Capital",
+      "softBank Vision Fund 2",
+      "Ethereal Ventures"
+    ],
+    "titles": [
+      "COO"
+    ],
+    "names": [
+      "Peter Lipka"
+    ]
+  },
+  {
+    "company": "Fundamentals Lab",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Partner, Co-founder"
+    ],
+    "names": [
+      "Howard (Hao) Yuan"
+    ]
+  },
+  {
+    "company": "Animoca",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Entrepreneur in Residence",
+      "Entrepreneur"
+    ],
+    "names": [
+      "Rich Robinson"
+    ]
+  },
+  {
+    "company": "Galxe",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "Founding member",
+      "Co-Founder"
+    ],
+    "names": [
+      "Charles Wayn",
+      "JT Chien"
+    ]
+  },
+  {
+    "company": "Andreessen Horowitz",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner"
+    ],
+    "names": [
+      "Chris Dixon"
+    ]
+  },
+  {
+    "company": "softBank Vision Fund 2",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Antoine Theysset"
+    ]
+  },
+  {
+    "company": "Digital Currency Group",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Director of Investments"
+    ],
+    "names": [
+      "Matt Beck"
+    ]
+  },
+  {
+    "company": "Morgan Creek Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner"
+    ],
+    "names": [
+      "Sachin Jaitly"
+    ]
+  },
+  {
+    "company": "Ethereal Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Director"
+    ],
+    "names": [
+      "Min Teo"
+    ]
+  },
+  {
+    "company": "Sharding Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founding Partner"
+    ],
+    "names": [
+      "Belinda Zhou"
+    ]
+  },
+  {
+    "company": "Arcane Labs",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Foresight Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Greythorn Asset Management",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Fosun International",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "former vice chair and CEO"
+    ],
+    "names": [
+      "Xinjun Liang"
+    ]
+  },
+  {
+    "company": "Mask Network",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Suji Yan"
+    ]
+  },
+  {
+    "company": "MetaWeb Venture",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner",
+      "Founder"
+    ],
+    "names": [
+      "Daniela Osorio",
+      "Amos Zhang"
+    ]
+  },
+  {
+    "company": "Eniac Venture",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder"
+    ],
+    "names": [
+      "Tim Young",
+      "Vic Singh",
+      "Hadley Harris",
+      "Nihal Mehta"
+    ]
+  },
+  {
+    "company": "Incuba Alpha",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founding Partner"
+    ],
+    "names": [
+      "Ruby Wu"
+    ]
+  },
+  {
+    "company": "Zeuth Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "anonymous "
+    ]
+  },
+  {
+    "company": "Cogitent Venture",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Director"
+    ],
+    "names": [
+      "Christopher Ochoa"
+    ]
+  },
+  {
+    "company": "Atlas Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Alfonso Larriva"
+    ]
+  },
+  {
+    "company": "Impossible Finance",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "anonymous "
+    ]
+  },
+  {
+    "company": "ShowMe",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Family Office",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Yenie Won",
+      "Albert P. Lee",
+      "Hernan Seo"
+    ]
+  },
+  {
+    "company": "refi deals",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Family Office"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Gate.io Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Richard "
+    ]
+  },
+  {
+    "company": "Conviction",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Sarah Guo"
+    ]
+  },
+  {
+    "company": "Chulalongkorn University Technology Center",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Head"
+    ],
+    "names": [
+      "PRAVEE KRUACHOTTIKUL"
+    ]
+  },
+  {
+    "company": "Chulalongkorn University Technology Center (UTC)",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of Artificial Intelligence"
+    ],
+    "names": [
+      "Pin Pin Tea-makorn"
+    ]
+  },
+  {
+    "company": "MasterExchange",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO & Co-founder"
+    ],
+    "names": [
+      "Alexander Fred-Ojala"
+    ]
+  },
+  {
+    "company": "Bybit",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "founder and CEO"
+    ],
+    "names": [
+      "Ben Zhou"
+    ]
+  },
+  {
+    "company": "Thala Labs",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 30,
+    "portfolio_refs": [],
+    "titles": [
+      "Lead Advisor",
+      "Frontend Developer",
+      "Fullstack Developer",
+      "Product Design",
+      "Advisor"
+    ],
+    "names": [
+      "Ezaan Mangalji",
+      "Steven L",
+      "Sarah Cader",
+      "Sally Wang",
+      "Matthew B"
+    ]
+  },
+  {
+    "company": "Ex Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Partner"
+    ],
+    "names": [
+      "Joshua See"
+    ]
+  },
+  {
+    "company": "Krust Universe",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Anonymous "
+    ]
+  },
+  {
+    "company": "Anti Fund",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder & Partner"
+    ],
+    "names": [
+      "Geoffrey Woo"
+    ]
+  },
+  {
+    "company": "Algorand",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Silvio Micali"
+    ]
+  },
+  {
+    "company": "Libra Capital Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Anonymous "
+    ]
+  },
+  {
+    "company": "Nexo Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder"
+    ],
+    "names": [
+      "Kosta Kantchev"
+    ]
+  },
+  {
+    "company": "GSR Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder"
+    ],
+    "names": [
+      "Shenjun Wu"
+    ]
+  },
+  {
+    "company": "Coinhako",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder & CEO"
+    ],
+    "names": [
+      "Yusho Liu"
+    ]
+  },
+  {
+    "company": "Octava",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "Chairman",
+      "CEO"
+    ],
+    "names": [
+      "Sze Khai Pang",
+      "RAMAN SIDHU"
+    ]
+  },
+  {
+    "company": "Rising Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Director",
+      "Co-Founder Partner"
+    ],
+    "names": [
+      "Sankalp Shangari",
+      "Pavel Bains"
+    ]
+  },
+  {
+    "company": "DWF Labs",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Partner"
+    ],
+    "names": [
+      "Andrei Grachev"
+    ]
+  },
+  {
+    "company": "Nxgen",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "Founding Partner"
+    ],
+    "names": [
+      "Simon M",
+      "Joeri V"
+    ]
+  },
+  {
+    "company": "Gains Associates",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 6,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO & Co-Founder",
+      "CTO & Co-Founder",
+      "COO & Co-Founder"
+    ],
+    "names": [
+      "Alexandre Patry",
+      "Alexandre Raffin",
+      "Lotfi Zouad"
+    ]
+  },
+  {
+    "company": "Baselayer Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Anonymous "
+    ]
+  },
+  {
+    "company": "GREAT SOUTH GATE",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 2,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Daniel Whang"
+    ]
+  },
+  {
+    "company": "T.E.A.M DAO advisor",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "GREAT SOUTH GATE"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "ParaFi Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 4,
+    "portfolio_refs": [],
+    "titles": [
+      "Managing Partner",
+      "Vice President"
+    ],
+    "names": [
+      "Ben Forman",
+      "Anjan Vinod"
+    ]
+  },
+  {
+    "company": "Netease",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Corp dev"
+    ],
+    "names": [
+      "Jeffrey "
+    ]
+  },
+  {
+    "company": "D20 Capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "General Partner"
+    ],
+    "names": [
+      "Sungjoon Cho"
+    ]
+  },
+  {
+    "company": "Generative Labs",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder & CEO"
+    ],
+    "names": [
+      "Luke Wang"
+    ]
+  },
+  {
+    "company": "CyberConnect",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-founder"
+    ],
+    "names": [
+      "Ryan Li"
+    ]
+  },
+  {
+    "company": "Palo Alto Platinum Fund",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Anton "
+    ]
+  },
+  {
+    "company": "MagipopDAO",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Initiator"
+    ],
+    "names": [
+      "Annie Huang"
+    ]
+  },
+  {
+    "company": "KaratDAO",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Rudy Rong"
+    ]
+  },
+  {
+    "company": "ECG",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "VC"
+    ],
+    "names": [
+      "Korn ",
+      "Dan Antakon",
+      "Ming "
+    ]
+  },
+  {
+    "company": "Jsquare Ventures",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Investment Analyst"
+    ],
+    "names": [
+      "Eu Jin Cheong"
+    ]
+  },
+  {
+    "company": "Co-Museum",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & CEO"
+    ],
+    "names": [
+      "Chaw Wei Yang"
+    ]
+  },
+  {
+    "company": "Aptos",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Business Development Lead"
+    ],
+    "names": [
+      "David Oh"
+    ]
+  },
+  {
+    "company": "Affirm",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Software Engineer"
+    ],
+    "names": [
+      "Miguel Ayala"
+    ]
+  },
+  {
+    "company": "The Concord Group",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Senior Associate"
+    ],
+    "names": [
+      "Paolo Vera"
+    ]
+  },
+  {
+    "company": "Stanford GSB",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 3,
+    "portfolio_refs": [],
+    "titles": [
+      "MBA Candidate"
+    ],
+    "names": [
+      "Shujia Liang",
+      "Mingoo Kim",
+      "Nick Chow"
+    ]
+  },
+  {
+    "company": "Long Run Capital",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO & Co-CIO"
+    ],
+    "names": [
+      "Daniel Maren"
+    ]
+  },
+  {
+    "company": "TOTO Express",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Co-Founder"
+    ],
+    "names": [
+      "Gary Mao"
+    ]
+  },
+  {
+    "company": "Ojamu",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & CEO"
+    ],
+    "names": [
+      "Hal Bame"
+    ]
+  },
+  {
+    "company": "Syntrend (Foxconn Technology Group)",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Venture Partner and Advisor to Chairman"
+    ],
+    "names": [
+      "Lee Chang"
+    ]
+  },
+  {
+    "company": "LYVC",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Investment Director"
+    ],
+    "names": [
+      "Leon Shi Han Ooi"
+    ]
+  },
+  {
+    "company": "ZettaBlock",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Chi Zhang"
+    ]
+  },
+  {
+    "company": "ARKN Ventures",
+    "is_vc": true,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Head of Marketing"
+    ],
+    "names": [
+      "George SanJuan"
+    ]
+  },
+  {
+    "company": "KPMG",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Blockchain Developer"
+    ],
+    "names": [
+      "Kavin Kleinm"
+    ]
+  },
+  {
+    "company": "Berkeley SkyDeck",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Advisory Co-Chair"
+    ],
+    "names": [
+      "Alan Leong"
+    ]
+  },
+  {
+    "company": "PlayStation",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Strategic Analyst, President's Office"
+    ],
+    "names": [
+      "Clark Cen"
+    ]
+  },
+  {
+    "company": "AnChain.AI",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "CEO & Co-Founder"
+    ],
+    "names": [
+      "Victor Fang"
+    ]
+  },
+  {
+    "company": "PDAX",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder & CEO"
+    ],
+    "names": [
+      "Nichel Gaba"
+    ]
+  },
+  {
+    "company": "sharding capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Belinda "
+    ]
+  },
+  {
+    "company": "CVP NLH / Binance",
+    "is_vc": false,
+    "has_exec": true,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [
+      "Founder"
+    ],
+    "names": [
+      "Gin Chao"
+    ]
+  },
+  {
+    "company": "Setpn",
+    "is_vc": false,
+    "has_exec": false,
+    "count": 0,
+    "portfolio_refs": [
+      "Direct Invested"
+    ],
+    "titles": [],
+    "names": []
+  },
+  {
+    "company": "Arcanum capital",
+    "is_vc": true,
+    "has_exec": false,
+    "count": 1,
+    "portfolio_refs": [],
+    "titles": [],
+    "names": [
+      "Luzia Zheng"
+    ]
+  }
+]

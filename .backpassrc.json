@@ -1,0 +1,35 @@
+{
+  "memoryFiles": [
+    "AGENTS.md",
+    "CLAUDE.md"
+  ],
+  "budgetTokens": 5000,
+  "skillsDir": ".agents/skills",
+  "minGapEvidence": 2,
+  "maxTranscripts": 20,
+  "discovery": {
+    "harnesses": [
+      "claude",
+      "codex",
+      "pi",
+      "opencode",
+      "grok",
+      "cursor",
+      "hermes"
+    ],
+    "since": "30d",
+    "worktreeGlobs": [],
+    "minUserTurns": 2
+  },
+  "jobs": 2,
+  "analysis": {
+    "agent": "pi",
+    "model": "bifrost-google-antigravity/google-antigravity/gemini-3.8-flash",
+    "effort": "medium"
+  },
+  "synthesis": {
+    "agent": "pi",
+    "model": "bifrost-google-antigravity/google-antigravity/gemini-3.8-flash",
+    "effort": "high"
+  }
+}

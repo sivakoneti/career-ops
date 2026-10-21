@@ -1,0 +1,443 @@
+[
+  {
+    "company": "Affirm",
+    "platform": "greenhouse",
+    "slug": "affirm",
+    "count": 175,
+    "url": "https://boards-api.greenhouse.io/v1/boards/affirm/jobs"
+  },
+  {
+    "company": "Alpaca VC",
+    "platform": "greenhouse",
+    "slug": "alpaca",
+    "count": 71,
+    "url": "https://boards-api.greenhouse.io/v1/boards/alpaca/jobs"
+  },
+  {
+    "company": "8VC",
+    "platform": "ashby",
+    "slug": "8vc",
+    "count": 6,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/8vc"
+  },
+  {
+    "company": "1Inch DEX",
+    "platform": "lever",
+    "slug": "1inch",
+    "count": 3,
+    "url": "https://api.lever.co/v0/postings/1inch?mode=json"
+  },
+  {
+    "company": "Arca",
+    "platform": "ashby",
+    "slug": "arca",
+    "count": 9,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/arca"
+  },
+  {
+    "company": "Anduril Industries",
+    "platform": "greenhouse",
+    "slug": "andurilindustries",
+    "count": 2372,
+    "url": "https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs"
+  },
+  {
+    "company": "Animoca Brands",
+    "platform": "lever",
+    "slug": "animocabrands",
+    "count": 11,
+    "url": "https://api.lever.co/v0/postings/animocabrands?mode=json"
+  },
+  {
+    "company": "Arena",
+    "platform": "ashby",
+    "slug": "arena",
+    "count": 21,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/arena"
+  },
+  {
+    "company": "Atlas Capital",
+    "platform": "ashby",
+    "slug": "atlas",
+    "count": 7,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/atlas"
+  },
+  {
+    "company": "Amber Group Japan",
+    "platform": "ashby",
+    "slug": "amber",
+    "count": 19,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/amber"
+  },
+  {
+    "company": "Baselayer Capital",
+    "platform": "greenhouse",
+    "slug": "baselayer",
+    "count": 13,
+    "url": "https://boards-api.greenhouse.io/v1/boards/baselayer/jobs"
+  },
+  {
+    "company": "Blockchain Space",
+    "platform": "greenhouse",
+    "slug": "blockchain",
+    "count": 38,
+    "url": "https://boards-api.greenhouse.io/v1/boards/blockchain/jobs"
+  },
+  {
+    "company": "Blue Pool Capital",
+    "platform": "lever",
+    "slug": "blue",
+    "count": 10,
+    "url": "https://api.lever.co/v0/postings/blue?mode=json"
+  },
+  {
+    "company": "Bybit",
+    "platform": "greenhouse",
+    "slug": "bybit",
+    "count": 156,
+    "url": "https://boards-api.greenhouse.io/v1/boards/bybit/jobs"
+  },
+  {
+    "company": "CMT Digital",
+    "platform": "greenhouse",
+    "slug": "cmt",
+    "count": 2,
+    "url": "https://boards-api.greenhouse.io/v1/boards/cmt/jobs"
+  },
+  {
+    "company": "Binance",
+    "platform": "lever",
+    "slug": "binance",
+    "count": 301,
+    "url": "https://api.lever.co/v0/postings/binance?mode=json"
+  },
+  {
+    "company": "Circle Ventures",
+    "platform": "ashby",
+    "slug": "circle",
+    "count": 9,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/circle"
+  },
+  {
+    "company": "Codex",
+    "platform": "ashby",
+    "slug": "codex",
+    "count": 6,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/codex"
+  },
+  {
+    "company": "Cambium Capital Partners",
+    "platform": "ashby",
+    "slug": "cambium",
+    "count": 5,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/cambium"
+  },
+  {
+    "company": "Coinbase Singapore",
+    "platform": "greenhouse",
+    "slug": "coinbase",
+    "count": 210,
+    "url": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs"
+  },
+  {
+    "company": "Coinhako",
+    "platform": "ashby",
+    "slug": "coinhako",
+    "count": 7,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/coinhako"
+  },
+  {
+    "company": "ConsenSys",
+    "platform": "greenhouse",
+    "slug": "consensys",
+    "count": 7,
+    "url": "https://boards-api.greenhouse.io/v1/boards/consensys/jobs"
+  },
+  {
+    "company": "ConsenSys",
+    "platform": "ashby",
+    "slug": "consensys",
+    "count": 5,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/consensys"
+  },
+  {
+    "company": "Dapper Labs",
+    "platform": "ashby",
+    "slug": "dapper",
+    "count": 21,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/dapper"
+  },
+  {
+    "company": "Delphi Digital",
+    "platform": "ashby",
+    "slug": "delphi",
+    "count": 5,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/delphi"
+  },
+  {
+    "company": "Digital Currency Group",
+    "platform": "greenhouse",
+    "slug": "digitalcurrencygroup",
+    "count": 1,
+    "url": "https://boards-api.greenhouse.io/v1/boards/digitalcurrencygroup/jobs"
+  },
+  {
+    "company": "Double Down Partners",
+    "platform": "ashby",
+    "slug": "double",
+    "count": 3,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/double"
+  },
+  {
+    "company": "Family Office",
+    "platform": "greenhouse",
+    "slug": "familyoffice",
+    "count": 12,
+    "url": "https://boards-api.greenhouse.io/v1/boards/familyoffice/jobs"
+  },
+  {
+    "company": "Fundamental Labs",
+    "platform": "ashby",
+    "slug": "fundamental",
+    "count": 19,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/fundamental"
+  },
+  {
+    "company": "Coins Group",
+    "platform": "lever",
+    "slug": "coins",
+    "count": 120,
+    "url": "https://api.lever.co/v0/postings/coins?mode=json"
+  },
+  {
+    "company": "Galaxy Interactive",
+    "platform": "greenhouse",
+    "slug": "galaxy",
+    "count": 3,
+    "url": "https://boards-api.greenhouse.io/v1/boards/galaxy/jobs"
+  },
+  {
+    "company": "Gemini",
+    "platform": "greenhouse",
+    "slug": "gemini",
+    "count": 33,
+    "url": "https://boards-api.greenhouse.io/v1/boards/gemini/jobs"
+  },
+  {
+    "company": "Griffin Gaming",
+    "platform": "ashby",
+    "slug": "griffin",
+    "count": 5,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/griffin"
+  },
+  {
+    "company": "Harmony",
+    "platform": "lever",
+    "slug": "harmony",
+    "count": 9,
+    "url": "https://api.lever.co/v0/postings/harmony?mode=json"
+  },
+  {
+    "company": "Harmony",
+    "platform": "ashby",
+    "slug": "harmony",
+    "count": 11,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/harmony"
+  },
+  {
+    "company": "Gate.io Ventures",
+    "platform": "lever",
+    "slug": "gate",
+    "count": 24,
+    "url": "https://api.lever.co/v0/postings/gate?mode=json"
+  },
+  {
+    "company": "Improbable",
+    "platform": "ashby",
+    "slug": "improbable",
+    "count": 5,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/improbable"
+  },
+  {
+    "company": "Inertia Ventures",
+    "platform": "ashby",
+    "slug": "inertia",
+    "count": 8,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/inertia"
+  },
+  {
+    "company": "Jump Capital",
+    "platform": "ashby",
+    "slug": "jump",
+    "count": 4,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/jump"
+  },
+  {
+    "company": "Libra Capital Ventures",
+    "platform": "ashby",
+    "slug": "libra",
+    "count": 5,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/libra"
+  },
+  {
+    "company": "LinkedIn",
+    "platform": "greenhouse",
+    "slug": "linkedin",
+    "count": 53,
+    "url": "https://boards-api.greenhouse.io/v1/boards/linkedin/jobs"
+  },
+  {
+    "company": "LinkedIn",
+    "platform": "lever",
+    "slug": "linkedin",
+    "count": 23,
+    "url": "https://api.lever.co/v0/postings/linkedin?mode=json"
+  },
+  {
+    "company": "Krafton/PUBG Corporation",
+    "platform": "greenhouse",
+    "slug": "krafton",
+    "count": 63,
+    "url": "https://boards-api.greenhouse.io/v1/boards/krafton/jobs"
+  },
+  {
+    "company": "Makers Fund",
+    "platform": "greenhouse",
+    "slug": "makersfund",
+    "count": 2,
+    "url": "https://boards-api.greenhouse.io/v1/boards/makersfund/jobs"
+  },
+  {
+    "company": "Menlo Ventures",
+    "platform": "ashby",
+    "slug": "menlo",
+    "count": 19,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/menlo"
+  },
+  {
+    "company": "Mysten Labs",
+    "platform": "ashby",
+    "slug": "mystenlabs",
+    "count": 7,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/mystenlabs"
+  },
+  {
+    "company": "New Chic Capital",
+    "platform": "greenhouse",
+    "slug": "new",
+    "count": 1,
+    "url": "https://boards-api.greenhouse.io/v1/boards/new/jobs"
+  },
+  {
+    "company": "Nothing",
+    "platform": "greenhouse",
+    "slug": "nothing",
+    "count": 9,
+    "url": "https://boards-api.greenhouse.io/v1/boards/nothing/jobs"
+  },
+  {
+    "company": "Nubank",
+    "platform": "ashby",
+    "slug": "nubank",
+    "count": 117,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/nubank"
+  },
+  {
+    "company": "Neon Media",
+    "platform": "lever",
+    "slug": "neon",
+    "count": 12,
+    "url": "https://api.lever.co/v0/postings/neon?mode=json"
+  },
+  {
+    "company": "Neon Media",
+    "platform": "ashby",
+    "slug": "neon",
+    "count": 4,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/neon"
+  },
+  {
+    "company": "Opensea",
+    "platform": "ashby",
+    "slug": "opensea",
+    "count": 2,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/opensea"
+  },
+  {
+    "company": "Parallel life NFT",
+    "platform": "greenhouse",
+    "slug": "parallel",
+    "count": 18,
+    "url": "https://boards-api.greenhouse.io/v1/boards/parallel/jobs"
+  },
+  {
+    "company": "Parallel life NFT",
+    "platform": "ashby",
+    "slug": "parallel",
+    "count": 24,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/parallel"
+  },
+  {
+    "company": "Parity Technologies",
+    "platform": "ashby",
+    "slug": "parity",
+    "count": 2,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/parity"
+  },
+  {
+    "company": "Playground Ventures",
+    "platform": "ashby",
+    "slug": "playground",
+    "count": 7,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/playground"
+  },
+  {
+    "company": "Rubix",
+    "platform": "greenhouse",
+    "slug": "rubix",
+    "count": 9,
+    "url": "https://boards-api.greenhouse.io/v1/boards/rubix/jobs"
+  },
+  {
+    "company": "Ripple Ventures",
+    "platform": "greenhouse",
+    "slug": "ripple",
+    "count": 122,
+    "url": "https://boards-api.greenhouse.io/v1/boards/ripple/jobs"
+  },
+  {
+    "company": "Samsung Next",
+    "platform": "greenhouse",
+    "slug": "samsungnext",
+    "count": 3,
+    "url": "https://boards-api.greenhouse.io/v1/boards/samsungnext/jobs"
+  },
+  {
+    "company": "Sequoia",
+    "platform": "ashby",
+    "slug": "sequoia",
+    "count": 8,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/sequoia"
+  },
+  {
+    "company": "Scale AI",
+    "platform": "greenhouse",
+    "slug": "scaleai",
+    "count": 203,
+    "url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"
+  },
+  {
+    "company": "Sol Sniper",
+    "platform": "ashby",
+    "slug": "sol",
+    "count": 2,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/sol"
+  },
+  {
+    "company": "Sound Ventures",
+    "platform": "ashby",
+    "slug": "sound-ventures",
+    "count": 3,
+    "url": "https://api.ashbyhq.com/posting-api/job-board/sound-ventures"
+  }
+]

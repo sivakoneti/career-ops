@@ -1,0 +1,20 @@
+[
+  {
+    "company": "circle",
+    "platform": "ashby",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/circle",
+    "count": 9
+  },
+  {
+    "company": "alchemy",
+    "platform": "ashby",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/alchemy",
+    "count": 17
+  },
+  {
+    "company": "offchainlabs",
+    "platform": "lever",
+    "url": "https://api.lever.co/v0/postings/offchainlabs?mode=json",
+    "count": 11
+  }
+]
